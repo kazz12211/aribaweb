@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/32/trunk/examples/Demo/search
+END
+SearchSource.awl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/15/trunk/examples/Demo/search/SearchSource.awl
+END
+SearchSource.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/trunk/examples/Demo/search/SearchSource.groovy
+END
+SourceSearcher.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/32/trunk/examples/Demo/search/SourceSearcher.groovy
+END
+SourceCodeAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/32/trunk/examples/Demo/search/SourceCodeAnalyzer.java
+END

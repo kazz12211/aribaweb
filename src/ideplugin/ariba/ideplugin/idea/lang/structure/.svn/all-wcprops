@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/structure
+END
+OSSKeyValueStructureViewElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/structure/OSSKeyValueStructureViewElement.java
+END
+OSSStructureViewModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/structure/OSSStructureViewModel.java
+END
+OSSRuleStructureViewElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/structure/OSSRuleStructureViewElement.java
+END
+OSSStructureViewFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/structure/OSSStructureViewFactory.java
+END
+OSSFileStructureViewElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/structure/OSSFileStructureViewElement.java
+END
+OSSPrecedenceChainStructureViewElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/structure/OSSPrecedenceChainStructureViewElement.java
+END

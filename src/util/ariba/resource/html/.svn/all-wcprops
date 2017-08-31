@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/30/trunk/src/util/ariba/resource/html
+END
+HtmlSafeTags.csv
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/util/ariba/resource/html/HtmlSafeTags.csv
+END
+HtmlSafeAttributes.csv
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/30/trunk/src/util/ariba/resource/html/HtmlSafeAttributes.csv
+END

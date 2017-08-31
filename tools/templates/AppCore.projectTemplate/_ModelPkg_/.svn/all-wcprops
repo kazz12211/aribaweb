@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/20/trunk/tools/templates/AppCore.projectTemplate/_ModelPkg_
+END
+rules.oss.awtmpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/tools/templates/AppCore.projectTemplate/_ModelPkg_/rules.oss.awtmpl
+END
+_MasterClass_.java.awtmpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/20/trunk/tools/templates/AppCore.projectTemplate/_ModelPkg_/_MasterClass_.java.awtmpl
+END
+_DetailClass_.java.awtmpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/20/trunk/tools/templates/AppCore.projectTemplate/_ModelPkg_/_DetailClass_.java.awtmpl
+END

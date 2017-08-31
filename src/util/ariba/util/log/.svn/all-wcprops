@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/33/trunk/src/util/ariba/util/log
+END
+HTMLLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/trunk/src/util/ariba/util/log/HTMLLayout.java
+END
+AuditLoggerMessageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7/trunk/src/util/ariba/util/log/AuditLoggerMessageFactory.java
+END
+Directory.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/src/util/ariba/util/log/Directory.java
+END
+ExceptionLogContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/util/ariba/util/log/ExceptionLogContext.java
+END
+AuditLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/src/util/ariba/util/log/AuditLogger.java
+END
+CustomTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/src/util/ariba/util/log/CustomTag.java
+END
+BareLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/trunk/src/util/ariba/util/log/BareLayout.java
+END
+FileComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/util/ariba/util/log/FileComparator.java
+END
+LoggingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/util/ariba/util/log/LoggingService.java
+END
+PrivateLoggers.csv
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/33/trunk/src/util/ariba/util/log/PrivateLoggers.csv
+END
+LoggerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/util/ariba/util/log/LoggerFactory.java
+END
+AuditLoggerMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/src/util/ariba/util/log/AuditLoggerMessage.java
+END
+StandardPatternParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7/trunk/src/util/ariba/util/log/StandardPatternParser.java
+END
+LogManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/32/trunk/src/util/ariba/util/log/LogManager.java
+END
+ZipArchivingAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/trunk/src/util/ariba/util/log/ZipArchivingAppender.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5/trunk/src/util/ariba/util/log/package.html
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/31/trunk/src/util/ariba/util/log/Logger.java
+END
+LogFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/30/trunk/src/util/ariba/util/log/LogFile.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/33/trunk/src/util/ariba/util/log/Log.java
+END
+ExceptionLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/util/ariba/util/log/ExceptionLogService.java
+END
+AvoidDuplicateEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/util/ariba/util/log/AvoidDuplicateEvents.java
+END
+DefaultLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/util/ariba/util/log/DefaultLayout.java
+END
+LogSuppressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/util/ariba/util/log/LogSuppressor.java
+END
+LoggingEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/src/util/ariba/util/log/LoggingEvent.java
+END
+ArchivingAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/25/trunk/src/util/ariba/util/log/ArchivingAppender.java
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/src/util/ariba/util/log/log4j.properties
+END
+AsyncAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/32/trunk/src/util/ariba/util/log/AsyncAppender.java
+END
+PrivateLoggers.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/util/ariba/util/log/PrivateLoggers.java
+END
+StandardLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/util/ariba/util/log/StandardLayout.java
+END
+ConstrainedDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/util/ariba/util/log/ConstrainedDirectory.java
+END

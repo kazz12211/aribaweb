@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/src/widgets/ariba/ui/wizard/meta
+END
+WizardEntityResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/wizard/meta/WizardEntityResolver.java
+END
+WizardFrameMeta.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/27/trunk/src/widgets/ariba/ui/wizard/meta/WizardFrameMeta.java
+END
+WizardStepMeta.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/wizard/meta/WizardStepMeta.java
+END
+GenericMeta.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/wizard/meta/GenericMeta.java
+END
+WizardActionMeta.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/wizard/meta/WizardActionMeta.java
+END
+WizardMeta.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/25/trunk/src/widgets/ariba/ui/wizard/meta/WizardMeta.java
+END

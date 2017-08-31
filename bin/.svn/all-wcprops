@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/32/trunk/bin
+END
+start.bat
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/25/trunk/bin/start.bat
+END
+localize.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/19/trunk/bin/localize.groovy
+END
+aw
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/15/trunk/bin/aw
+END
+processdoc.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/bin/processdoc.groovy
+END
+indexsource.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/32/trunk/bin/indexsource.groovy
+END
+aw.bat
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/15/trunk/bin/aw.bat
+END
+start
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/7/trunk/bin/start
+END
+createProject.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/bin/createProject.groovy
+END

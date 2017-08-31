@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/27/trunk/src/util/ariba/util/test
+END
+StagerArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/src/util/ariba/util/test/StagerArgs.java
+END
+TestValidationError.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/25/trunk/src/util/ariba/util/test/TestValidationError.java
+END
+TestStagerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11/trunk/src/util/ariba/util/test/TestStagerException.java
+END
+TestValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11/trunk/src/util/ariba/util/test/TestValidator.java
+END
+TestStager.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/src/util/ariba/util/test/TestStager.java
+END
+TestValidationParameterList.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/25/trunk/src/util/ariba/util/test/TestValidationParameterList.java
+END
+TestPageLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11/trunk/src/util/ariba/util/test/TestPageLink.java
+END
+TestValidationParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/25/trunk/src/util/ariba/util/test/TestValidationParameter.java
+END
+TestBaselineStringProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11/trunk/src/util/ariba/util/test/TestBaselineStringProducer.java
+END
+TestException.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11/trunk/src/util/ariba/util/test/TestException.java
+END
+TestDestager.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/util/ariba/util/test/TestDestager.java
+END
+TestParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15/trunk/src/util/ariba/util/test/TestParam.java
+END

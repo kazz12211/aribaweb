@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/src/metaui/ariba/ui/meta/annotations
+END
+Properties.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/metaui/ariba/ui/meta/annotations/Properties.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/19/trunk/src/metaui/ariba/ui/meta/annotations/Action.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7/trunk/src/metaui/ariba/ui/meta/annotations/package.html
+END
+NavModuleClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6/trunk/src/metaui/ariba/ui/meta/annotations/NavModuleClass.java
+END
+Trait.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/trunk/src/metaui/ariba/ui/meta/annotations/Trait.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14/trunk/src/metaui/ariba/ui/meta/annotations/Property.java
+END
+Localized.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/19/trunk/src/metaui/ariba/ui/meta/annotations/Localized.java
+END
+Traits.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/src/metaui/ariba/ui/meta/annotations/Traits.java
+END
+SupercedesSuperclass.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/21/trunk/src/metaui/ariba/ui/meta/annotations/SupercedesSuperclass.java
+END

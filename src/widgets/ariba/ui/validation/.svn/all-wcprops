@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/validation
+END
+FormRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14/trunk/src/widgets/ariba/ui/validation/FormRow.java
+END
+AWVTextArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/AWVTextArea.java
+END
+FormGroupBlock.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/FormGroupBlock.awl
+END
+GenericChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/20/trunk/src/widgets/ariba/ui/validation/GenericChooser.java
+END
+AWVShortDateFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/AWVShortDateFormatter.java
+END
+AWVConciseDateTimeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/AWVConciseDateTimeFormatter.java
+END
+AWVFormatterAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/AWVFormatterAccess.java
+END
+AWVLocalizedDateFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/26/trunk/src/widgets/ariba/ui/validation/AWVLocalizedDateFormatter.java
+END
+AWVModalPageWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/AWVModalPageWrapper.java
+END
+AWVModalPageWrapper.awl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/AWVModalPageWrapper.awl
+END
+ComplexRepetition.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/ComplexRepetition.java
+END
+CompactForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/30/trunk/src/widgets/ariba/ui/validation/CompactForm.java
+END
+ComplexRepetition.awl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/ComplexRepetition.awl
+END
+CompactForm.awl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/30/trunk/src/widgets/ariba/ui/validation/CompactForm.awl
+END
+currencies.csv
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/validation/currencies.csv
+END
+FormTable.awl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/trunk/src/widgets/ariba/ui/validation/FormTable.awl
+END
+AWVLongDateTimeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/AWVLongDateTimeFormatter.java
+END
+AWVDateFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/27/trunk/src/widgets/ariba/ui/validation/AWVDateFormatter.java
+END
+FormBlock.awl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/FormBlock.awl
+END
+AWVPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/AWVPopup.java
+END
+AWVBigDecimalFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/AWVBigDecimalFormatter.java
+END
+MultiFormGrouper.awl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/MultiFormGrouper.awl
+END
+AWVPasswordField.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/AWVPasswordField.java
+END
+ValidatingTabSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/ValidatingTabSet.java
+END
+FormGroupBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/FormGroupBlock.java
+END
+FormRow.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/trunk/src/widgets/ariba/ui/validation/FormRow.awl
+END
+AWVLongDateFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/AWVLongDateFormatter.java
+END
+GenericChooser.awl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/27/trunk/src/widgets/ariba/ui/validation/GenericChooser.awl
+END
+AWVValidationInvocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/AWVValidationInvocation.java
+END
+CompactFormRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/30/trunk/src/widgets/ariba/ui/validation/CompactFormRow.java
+END
+AWVValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/AWVValidator.java
+END
+CompactFormRow.awl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/30/trunk/src/widgets/ariba/ui/validation/CompactFormRow.awl
+END
+ChoiceSourceRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/ChoiceSourceRegistry.java
+END
+GenericMoneyFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/21/trunk/src/widgets/ariba/ui/validation/GenericMoneyFormatter.java
+END
+AWVFormatterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/24/trunk/src/widgets/ariba/ui/validation/AWVFormatterFactory.java
+END
+AWVTimeMillisFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/AWVTimeMillisFormatter.java
+END
+FormTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/19/trunk/src/widgets/ariba/ui/validation/FormTable.java
+END
+ChoiceSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/ChoiceSource.java
+END
+BigDecimalMoneyFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/22/trunk/src/widgets/ariba/ui/validation/BigDecimalMoneyFormatter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7/trunk/src/widgets/ariba/ui/validation/package.html
+END
+AWVIdentifierFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/src/widgets/ariba/ui/validation/AWVIdentifierFormatter.java
+END
+PipedFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/PipedFormatter.java
+END
+Initialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/validation/Initialization.java
+END

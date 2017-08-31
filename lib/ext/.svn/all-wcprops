@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/33/trunk/lib/ext
+END
+tidy.jar
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/27/trunk/lib/ext/tidy.jar
+END
+jakarta-oro.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/7/trunk/lib/ext/jakarta-oro.jar
+END
+groovy-all.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/22/trunk/lib/ext/groovy-all.jar
+END
+markdownj.jar
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/7/trunk/lib/ext/markdownj.jar
+END
+core-renderer.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/27/trunk/lib/ext/core-renderer.jar
+END
+iText-2.0.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/27/trunk/lib/ext/iText-2.0.8.jar
+END
+asm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/30/trunk/lib/ext/asm.jar
+END
+log4j-1.2.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/14/trunk/lib/ext/log4j-1.2.15.jar
+END
+activation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/33/trunk/lib/ext/activation.jar
+END
+mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/14/trunk/lib/ext/mail.jar
+END
+bcel.jar
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/7/trunk/lib/ext/bcel.jar
+END

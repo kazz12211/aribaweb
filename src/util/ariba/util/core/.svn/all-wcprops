@@ -1,0 +1,1379 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core
+END
+PerformanceStateCPUTimedCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/27/trunk/src/util/ariba/util/core/PerformanceStateCPUTimedCounter.java
+END
+Crypt.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/Crypt.java
+END
+Vector.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/28/trunk/src/util/ariba/util/core/Vector.java
+END
+MultiValueHashtable.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/MultiValueHashtable.java
+END
+SecurityHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/trunk/src/util/ariba/util/core/SecurityHelper.java
+END
+EncodingMapStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/EncodingMapStrategy.java
+END
+Stopwatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/Stopwatch.java
+END
+MainThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/MainThread.java
+END
+QuickTableDiff.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/QuickTableDiff.java
+END
+Timer.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/src/util/ariba/util/core/Timer.java
+END
+EqHashtable.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/EqHashtable.java
+END
+SystemUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/SystemUtil.java
+END
+LockManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/LockManager.java
+END
+PerformanceChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/30/trunk/src/util/ariba/util/core/PerformanceChecker.java
+END
+EventQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/32/trunk/src/util/ariba/util/core/EventQueue.java
+END
+GlobalLockingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/GlobalLockingException.java
+END
+MemoryStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/MemoryStats.java
+END
+ServerInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/src/util/ariba/util/core/ServerInterface.java
+END
+ClassAlias.csv
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ClassAlias.csv
+END
+SetUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/31/trunk/src/util/ariba/util/core/SetUtil.java
+END
+MemoryOptimizedMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/30/trunk/src/util/ariba/util/core/MemoryOptimizedMap.java
+END
+Feature.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/Feature.java
+END
+ArithmeticOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/27/trunk/src/util/ariba/util/core/ArithmeticOperations.java
+END
+MaxEncodedString.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/32/trunk/src/util/ariba/util/core/MaxEncodedString.java
+END
+ArgumentParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/trunk/src/util/ariba/util/core/ArgumentParser.java
+END
+ThreadFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ThreadFactory.java
+END
+ReferenceReaderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ReferenceReaderException.java
+END
+CryptoInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/CryptoInterface.java
+END
+Parameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/trunk/src/util/ariba/util/core/Parameters.java
+END
+StateFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/StateFactory.java
+END
+OldBufferAllocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/OldBufferAllocator.java
+END
+EventLoop.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/32/trunk/src/util/ariba/util/core/EventLoop.java
+END
+PerformanceStateCore.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/PerformanceStateCore.java
+END
+MapArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/MapArray.java
+END
+Holder.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/util/ariba/util/core/Holder.java
+END
+ThreadLocalBufferAllocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ThreadLocalBufferAllocator.java
+END
+NoCrypto.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/NoCrypto.java
+END
+BooleanArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/BooleanArray.java
+END
+RegexFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/27/trunk/src/util/ariba/util/core/RegexFunction.java
+END
+NamedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/NamedList.java
+END
+Linkable.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/Linkable.java
+END
+CompositePredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/CompositePredicate.java
+END
+LRUEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/LRUEntry.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/32/trunk/src/util/ariba/util/core/Version.java
+END
+ComponentChecksum.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ComponentChecksum.java
+END
+ThreadedQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ThreadedQueue.java
+END
+ByteBufferPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/32/trunk/src/util/ariba/util/core/ByteBufferPool.java
+END
+GlobalLockingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/GlobalLockingService.java
+END
+Arithmetic.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/Arithmetic.java
+END
+VersionComponentChecksum.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/VersionComponentChecksum.java
+END
+IntegerArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/IntegerArray.java
+END
+WhiteListPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/WhiteListPredicate.java
+END
+GlobalState.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/GlobalState.java
+END
+ComponentChecksumException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ComponentChecksumException.java
+END
+LinkPayload.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/LinkPayload.java
+END
+GZipUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/GZipUtil.java
+END
+ResourceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/32/trunk/src/util/ariba/util/core/ResourceService.java
+END
+GlobalLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/GlobalLock.java
+END
+FileOutputStreamHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/FileOutputStreamHolder.java
+END
+MapUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/MapUtil.java
+END
+ArrayUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7/trunk/src/util/ariba/util/core/ArrayUtil.java
+END
+ConsistentHashRing.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/30/trunk/src/util/ariba/util/core/ConsistentHashRing.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/package.html
+END
+MultiKeyHashtable.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/MultiKeyHashtable.java
+END
+Crypto.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/Crypto.java
+END
+LockHandlerConditions.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/LockHandlerConditions.java
+END
+SparseVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/SparseVector.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/16/trunk/src/util/ariba/util/core/Base64.java
+END
+TimerQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/32/trunk/src/util/ariba/util/core/TimerQueue.java
+END
+Target.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/Target.java
+END
+TransientException.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/trunk/src/util/ariba/util/core/TransientException.java
+END
+CommandLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/trunk/src/util/ariba/util/core/CommandLine.java
+END
+Fmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/trunk/src/util/ariba/util/core/Fmt.java
+END
+RejectedExecutionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/src/util/ariba/util/core/RejectedExecutionException.java
+END
+ExitException.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ExitException.java
+END
+ContextCommandLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/trunk/src/util/ariba/util/core/ContextCommandLine.java
+END
+Executor.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7/trunk/src/util/ariba/util/core/Executor.java
+END
+SimpleComponentChecksum.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/SimpleComponentChecksum.java
+END
+PerformanceState.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/PerformanceState.java
+END
+Deque.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/Deque.java
+END
+ServerUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/31/trunk/src/util/ariba/util/core/ServerUtil.java
+END
+FeatureSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/FeatureSet.java
+END
+ClassProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ClassProxy.java
+END
+Pool.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/32/trunk/src/util/ariba/util/core/Pool.java
+END
+SignalHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/SignalHandler.java
+END
+DefaultRejectedExecutionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7/trunk/src/util/ariba/util/core/DefaultRejectedExecutionHandler.java
+END
+DatabaseBaseId.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7/trunk/src/util/ariba/util/core/DatabaseBaseId.java
+END
+LinkableList.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/LinkableList.java
+END
+MasterPasswordClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/16/trunk/src/util/ariba/util/core/MasterPasswordClient.java
+END
+ChronoWithMemory.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ChronoWithMemory.java
+END
+Date.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/32/trunk/src/util/ariba/util/core/Date.java
+END
+Blob.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/Blob.java
+END
+ThreadLocalHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/27/trunk/src/util/ariba/util/core/ThreadLocalHolder.java
+END
+PermutationIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/PermutationIterator.java
+END
+BatchProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/BatchProcessor.java
+END
+ReferenceSyntaxParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ReferenceSyntaxParser.java
+END
+ThreadLocalState.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ThreadLocalState.java
+END
+HeapTimerQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/32/trunk/src/util/ariba/util/core/HeapTimerQueue.java
+END
+PerformanceStateTimedCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/30/trunk/src/util/ariba/util/core/PerformanceStateTimedCounter.java
+END
+Compare.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/Compare.java
+END
+ThreadDebugKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ThreadDebugKey.java
+END
+DebugState.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/DebugState.java
+END
+ThreadPoolRejectedExecutionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ThreadPoolRejectedExecutionHandler.java
+END
+ClassExtensionRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/15/trunk/src/util/ariba/util/core/ClassExtensionRegistry.java
+END
+ThreadNamedPropertyGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/32/trunk/src/util/ariba/util/core/ThreadNamedPropertyGetter.java
+END
+ClassFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ClassFactory.java
+END
+FatalAssertionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/19/trunk/src/util/ariba/util/core/FatalAssertionException.java
+END
+MimeEncoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/MimeEncoding.java
+END
+ThreadNameAbbreviation.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ThreadNameAbbreviation.java
+END
+StringCSVConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/StringCSVConsumer.java
+END
+OrderedHashtable.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/src/util/ariba/util/core/OrderedHashtable.java
+END
+LinkedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/LinkedList.java
+END
+EqLRUHashtable.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/EqLRUHashtable.java
+END
+IOUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/IOUtil.java
+END
+IntCompanionSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/IntCompanionSort.java
+END
+OptimizingGridtable.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/22/trunk/src/util/ariba/util/core/OptimizingGridtable.java
+END
+RejectedExecutionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/RejectedExecutionHandler.java
+END
+MIMESource.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/MIMESource.java
+END
+ThreadNamedPropertySetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/32/trunk/src/util/ariba/util/core/ThreadNamedPropertySetter.java
+END
+ListUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/31/trunk/src/util/ariba/util/core/ListUtil.java
+END
+BufferAllocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/BufferAllocator.java
+END
+ProgressMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ProgressMonitor.java
+END
+StringCompareIgnoreCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/StringCompareIgnoreCase.java
+END
+StringCompare.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/StringCompare.java
+END
+FastStringBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/FastStringBuffer.java
+END
+CycleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/CycleException.java
+END
+ModMofNPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/ModMofNPredicate.java
+END
+State.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/State.java
+END
+ReferenceReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ReferenceReader.java
+END
+EventProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/EventProcessor.java
+END
+DynamicArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/30/trunk/src/util/ariba/util/core/DynamicArray.java
+END
+EvaluationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/27/trunk/src/util/ariba/util/core/EvaluationException.java
+END
+LockHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/LockHandler.java
+END
+ArithmeticUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ArithmeticUtil.java
+END
+MapBasedSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/MapBasedSet.java
+END
+Chrono.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/Chrono.java
+END
+FileReplacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/util/ariba/util/core/FileReplacer.java
+END
+BatchProcessingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/BatchProcessingException.java
+END
+OrPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/OrPredicate.java
+END
+CharBufferPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/32/trunk/src/util/ariba/util/core/CharBufferPool.java
+END
+PerformanceStateCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/PerformanceStateCounter.java
+END
+BufferPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/32/trunk/src/util/ariba/util/core/BufferPool.java
+END
+TreeIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/util/ariba/util/core/TreeIterable.java
+END
+Factory.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/Factory.java
+END
+GlobalLockUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/src/util/ariba/util/core/GlobalLockUtil.java
+END
+ThreadPoolMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ThreadPoolMonitor.java
+END
+ObjectLockManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ObjectLockManager.java
+END
+HTTP.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/HTTP.java
+END
+WrappedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/WrappedException.java
+END
+Priority.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/Priority.java
+END
+PoorThreadLocalState.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/PoorThreadLocalState.java
+END
+FileComponentChecksum.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/src/util/ariba/util/core/FileComponentChecksum.java
+END
+Sort.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/Sort.java
+END
+MathUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/trunk/src/util/ariba/util/core/MathUtil.java
+END
+LobException.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/LobException.java
+END
+Asynchronous.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/Asynchronous.java
+END
+Hashtable.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7/trunk/src/util/ariba/util/core/Hashtable.java
+END
+Link.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/Link.java
+END
+HashtableEnumerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/HashtableEnumerator.java
+END
+BatchSizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/BatchSizer.java
+END
+PerformanceCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/PerformanceCheck.java
+END
+PropertyGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/PropertyGetter.java
+END
+Predicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/Predicate.java
+END
+ThreadGroupLocalState.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ThreadGroupLocalState.java
+END
+GrowOnlyHashSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/GrowOnlyHashSet.java
+END
+IteratorUnion.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/IteratorUnion.java
+END
+ClassExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ClassExtension.java
+END
+WrapperRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6/trunk/src/util/ariba/util/core/WrapperRuntimeException.java
+END
+VectorEnumerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/VectorEnumerator.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/StringUtil.java
+END
+ObjectUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/ObjectUtil.java
+END
+IntegerCompare.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/IntegerCompare.java
+END
+StringArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/31/trunk/src/util/ariba/util/core/StringArray.java
+END
+ObjectArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ObjectArray.java
+END
+GlobalLocking.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/GlobalLocking.java
+END
+LinearLRUHashtable.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/LinearLRUHashtable.java
+END
+OutputStreamHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/OutputStreamHolder.java
+END
+DateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/DateUtil.java
+END
+ReadOnlyMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/ReadOnlyMap.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/FileUtil.java
+END
+StringTableProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7/trunk/src/util/ariba/util/core/StringTableProcessor.java
+END
+NotPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/NotPredicate.java
+END
+FormatBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/FormatBuffer.java
+END
+TunnelingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/TunnelingException.java
+END
+AndPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/AndPredicate.java
+END
+SelfCleaningPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/32/trunk/src/util/ariba/util/core/SelfCleaningPool.java
+END
+EncodingMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/EncodingMap.java
+END
+Function.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/27/trunk/src/util/ariba/util/core/Function.java
+END
+WriteResistantMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/src/util/ariba/util/core/WriteResistantMap.java
+END
+TableUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/TableUtil.java
+END
+MIME.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/MIME.java
+END
+InternCharToString.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/trunk/src/util/ariba/util/core/InternCharToString.java
+END
+SafeJava.csv
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/32/trunk/src/util/ariba/util/core/SafeJava.csv
+END
+LockHandlerContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/LockHandlerContext.java
+END
+GrowOnlyHashtable.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/31/trunk/src/util/ariba/util/core/GrowOnlyHashtable.java
+END
+PropertyTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/PropertyTable.java
+END
+Gridtable.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/22/trunk/src/util/ariba/util/core/Gridtable.java
+END
+ChecksumManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/25/trunk/src/util/ariba/util/core/ChecksumManager.java
+END
+GrowOnlyGridTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/src/util/ariba/util/core/GrowOnlyGridTable.java
+END
+URLUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/URLUtil.java
+END
+ThreadPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/30/trunk/src/util/ariba/util/core/ThreadPool.java
+END
+Assert.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/19/trunk/src/util/ariba/util/core/Assert.java
+END
+JavaThreadFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/JavaThreadFactory.java
+END
+ThreadManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ThreadManager.java
+END
+ClassUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/27/trunk/src/util/ariba/util/core/ClassUtil.java
+END
+ServerExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ServerExtension.java
+END
+HTML.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/32/trunk/src/util/ariba/util/core/HTML.java
+END
+EventExceptionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/EventExceptionListener.java
+END
+DefaultThreadManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/DefaultThreadManager.java
+END
+ModifiableInteger.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ModifiableInteger.java
+END
+DoubleArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30/trunk/src/util/ariba/util/core/DoubleArray.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/Constants.java
+END
+LinkedTimerQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/32/trunk/src/util/ariba/util/core/LinkedTimerQueue.java
+END
+FileArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/FileArray.java
+END
+LRUHashtable.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/util/ariba/util/core/LRUHashtable.java
+END
+BatchMapProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/BatchMapProcessor.java
+END
+SubsetIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/SubsetIterator.java
+END
+PropertyHasher.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/PropertyHasher.java
+END
+ThreadDebugState.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/src/util/ariba/util/core/ThreadDebugState.java
+END
+FeatureConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/33/trunk/src/util/ariba/util/core/FeatureConfig.java
+END
+NamedValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/NamedValue.java
+END
+MessageDigestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/28/trunk/src/util/ariba/util/core/MessageDigestUtil.java
+END
+Aggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/src/util/ariba/util/core/Aggregator.java
+END
+NonCachingClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7/trunk/src/util/ariba/util/core/NonCachingClassLoader.java
+END
+LRURemoveListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/LRURemoveListener.java
+END
+FileCompare.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/FileCompare.java
+END
+TokenTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/TokenTable.java
+END
+StateFactoryInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/StateFactoryInterface.java
+END
+ReferenceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/util/ariba/util/core/ReferenceHandler.java
+END

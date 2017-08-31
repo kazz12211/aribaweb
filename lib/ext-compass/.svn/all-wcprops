@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/14/trunk/lib/ext-compass
+END
+lucene-highlighter.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/trunk/lib/ext-compass/lucene-highlighter.jar
+END
+lucene-snowball.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14/trunk/lib/ext-compass/lucene-snowball.jar
+END
+lucene-spellchecker.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14/trunk/lib/ext-compass/lucene-spellchecker.jar
+END
+lucene-analyzers.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14/trunk/lib/ext-compass/lucene-analyzers.jar
+END
+lucene-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14/trunk/lib/ext-compass/lucene-core.jar
+END
+compass-2.1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14/trunk/lib/ext-compass/compass-2.1.0.jar
+END
+lucene-queries.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14/trunk/lib/ext-compass/lucene-queries.jar
+END

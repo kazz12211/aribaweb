@@ -1,0 +1,1847 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets
+END
+DisabledActionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/28/trunk/src/widgets/ariba/ui/widgets/DisabledActionHandler.java
+END
+AribaContactBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/30/trunk/src/widgets/ariba/ui/widgets/AribaContactBox.java
+END
+SearchPageWrapper.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/SearchPageWrapper.awl
+END
+OutlineMenu.awl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/OutlineMenu.awl
+END
+Widgets.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/Widgets.java
+END
+BrandingComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/BrandingComponent.java
+END
+Tab.awl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/Tab.awl
+END
+MessageBanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/17/trunk/src/widgets/ariba/ui/widgets/MessageBanner.java
+END
+HTMLActionFilter.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15/trunk/src/widgets/ariba/ui/widgets/HTMLActionFilter.awl
+END
+VirtualForm.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/VirtualForm.awl
+END
+TruncateString.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/widgets/TruncateString.java
+END
+PreferenceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/PreferenceHandler.java
+END
+DisableHomeActionConditionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/DisableHomeActionConditionHandler.java
+END
+CheckboxList.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/CheckboxList.java
+END
+TocPanelItem.awl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/TocPanelItem.awl
+END
+StepNavigator.awl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/StepNavigator.awl
+END
+AribaLoginForm.awl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/AribaLoginForm.awl
+END
+BasicNavigator.awl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/BasicNavigator.awl
+END
+ClientPanelWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ClientPanelWrapper.java
+END
+FooterLinks.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/32/trunk/src/widgets/ariba/ui/widgets/FooterLinks.java
+END
+BasicFrameWrapper.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/BasicFrameWrapper.awl
+END
+AribaShutdownWarning.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/widgets/AribaShutdownWarning.java
+END
+PageWrapperForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/PageWrapperForm.java
+END
+Section.awl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/src/widgets/ariba/ui/widgets/Section.awl
+END
+Tab.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/Tab.java
+END
+PopupMenuHeading.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/PopupMenuHeading.java
+END
+PopupMenuItem.awl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/22/trunk/src/widgets/ariba/ui/widgets/PopupMenuItem.awl
+END
+AribaResourceUrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/AribaResourceUrl.java
+END
+Calendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/25/trunk/src/widgets/ariba/ui/widgets/Calendar.java
+END
+DefaultCommandBar.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/DefaultCommandBar.awl
+END
+StepNavigatorBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/StepNavigatorBar.java
+END
+HoverCard.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/32/trunk/src/widgets/ariba/ui/widgets/HoverCard.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7/trunk/src/widgets/ariba/ui/widgets/package.html
+END
+SimpleTocPanel.awl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/SimpleTocPanel.awl
+END
+BasicPageWrapper.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/BasicPageWrapper.awl
+END
+DocumentContainer.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/DocumentContainer.awl
+END
+EarlyAccessBanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/EarlyAccessBanner.java
+END
+PaddedImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/PaddedImage.java
+END
+GoogleAnalytics.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/widgets/GoogleAnalytics.java
+END
+ChooserPanel.awl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ChooserPanel.awl
+END
+SectionBody.awl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14/trunk/src/widgets/ariba/ui/widgets/SectionBody.awl
+END
+AribaBasicPageWrapper.htm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/AribaBasicPageWrapper.htm
+END
+StepNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/StepNavigator.java
+END
+WidgetInclude.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/WidgetInclude.java
+END
+MimeMessageView.awl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/trunk/src/widgets/ariba/ui/widgets/MimeMessageView.awl
+END
+ComboButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/32/trunk/src/widgets/ariba/ui/widgets/ComboButton.java
+END
+WaterMark.awl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/WaterMark.awl
+END
+TabList.awl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/TabList.awl
+END
+AribaContactBox.awl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/30/trunk/src/widgets/ariba/ui/widgets/AribaContactBox.awl
+END
+HasSidebarConditionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/HasSidebarConditionHandler.java
+END
+PunchOutHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/PunchOutHeader.java
+END
+BaseTabSet.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/BaseTabSet.awl
+END
+AribaAboutBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/AribaAboutBox.java
+END
+StepHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/StepHeader.java
+END
+EarlyAccessBanner.awl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/27/trunk/src/widgets/ariba/ui/widgets/EarlyAccessBanner.awl
+END
+PaddedImage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/src/widgets/ariba/ui/widgets/PaddedImage.awl
+END
+WizardButtonsBarBottom.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/WizardButtonsBarBottom.java
+END
+RoundedStepsBox.awl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/RoundedStepsBox.awl
+END
+RoundedCorners.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/RoundedCorners.java
+END
+BucketItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/BucketItem.java
+END
+DialogPageWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/DialogPageWrapper.java
+END
+GoogleAnalyticsHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/widgets/GoogleAnalyticsHeader.java
+END
+PulldownButton.awl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/19/trunk/src/widgets/ariba/ui/widgets/PulldownButton.awl
+END
+ModalWindowLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/widgets/ModalWindowLink.java
+END
+StringHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/StringHandler.java
+END
+Chooser.awl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/32/trunk/src/widgets/ariba/ui/widgets/Chooser.awl
+END
+PopupMenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/src/widgets/ariba/ui/widgets/PopupMenuItem.java
+END
+HTMLActionFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/16/trunk/src/widgets/ariba/ui/widgets/HTMLActionFilter.java
+END
+GradientBox.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/GradientBox.awl
+END
+ChooserSelectionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ChooserSelectionState.java
+END
+HtmlInclude.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/HtmlInclude.awl
+END
+TextButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/src/widgets/ariba/ui/widgets/TextButton.java
+END
+WidgetsStyleSheet.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/WidgetsStyleSheet.awl
+END
+CheckboxList.awl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/CheckboxList.awl
+END
+StepHeader.awl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/StepHeader.awl
+END
+MimeMessageView.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/src/widgets/ariba/ui/widgets/MimeMessageView.java
+END
+CueTip.awl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/30/trunk/src/widgets/ariba/ui/widgets/CueTip.awl
+END
+PopupCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/PopupCalendar.java
+END
+DialogContentWrapper.awl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/DialogContentWrapper.awl
+END
+ImagePrefetch.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/src/widgets/ariba/ui/widgets/ImagePrefetch.java
+END
+MapForEach.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/MapForEach.java
+END
+GradientBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/GradientBox.java
+END
+MapForEach.awl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/MapForEach.awl
+END
+DefaultCommandBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/DefaultCommandBar.java
+END
+StepNavigatorButtonContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/StepNavigatorButtonContent.java
+END
+SpotlightState.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/SpotlightState.java
+END
+SearchBox.awl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/src/widgets/ariba/ui/widgets/SearchBox.awl
+END
+HeaderIncludes.awl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/widgets/HeaderIncludes.awl
+END
+AribaPrintMenu.awl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/AribaPrintMenu.awl
+END
+StepNavigatorButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/StepNavigatorButton.java
+END
+ErrorFlag.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/28/trunk/src/widgets/ariba/ui/widgets/ErrorFlag.java
+END
+ToggleImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ToggleImage.java
+END
+Brand.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/Brand.java
+END
+OutlineBox.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/28/trunk/src/widgets/ariba/ui/widgets/OutlineBox.awl
+END
+PortletWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/PortletWrapper.java
+END
+TopFrameRedirect.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/TopFrameRedirect.java
+END
+SiteActionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/15/trunk/src/widgets/ariba/ui/widgets/SiteActionHandler.java
+END
+PageWrapperForm.awl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15/trunk/src/widgets/ariba/ui/widgets/PageWrapperForm.awl
+END
+VirtualForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7/trunk/src/widgets/ariba/ui/widgets/VirtualForm.java
+END
+AribaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/trunk/src/widgets/ariba/ui/widgets/AribaAction.java
+END
+DisableAboutBoxConditionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/DisableAboutBoxConditionHandler.java
+END
+AribaImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/AribaImage.java
+END
+FileBrowser.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/FileBrowser.java
+END
+AribaAboutBox.awl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/32/trunk/src/widgets/ariba/ui/widgets/AribaAboutBox.awl
+END
+ConditionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ConditionHandler.java
+END
+SectionHeading.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/SectionHeading.java
+END
+SetterLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/SetterLink.java
+END
+FooterIncludes.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/widgets/FooterIncludes.java
+END
+ToggleImage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ToggleImage.awl
+END
+FooterIncludes.awl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/widgets/FooterIncludes.awl
+END
+MRUTabList.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/32/trunk/src/widgets/ariba/ui/widgets/MRUTabList.awl
+END
+ActionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ActionInterceptor.java
+END
+WidgetsJavaScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7/trunk/src/widgets/ariba/ui/widgets/WidgetsJavaScript.java
+END
+RoundedStep.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/RoundedStep.awl
+END
+AribaShutdownWarning.awl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/widgets/AribaShutdownWarning.awl
+END
+MessagesList.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/27/trunk/src/widgets/ariba/ui/widgets/MessagesList.java
+END
+ModalWindowLink.awl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/widgets/ModalWindowLink.awl
+END
+ImagePrefetch.awl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ImagePrefetch.awl
+END
+HtmlInclude.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/widgets/HtmlInclude.java
+END
+ToggleBoxBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ToggleBoxBody.java
+END
+RoundedBox.awl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/RoundedBox.awl
+END
+PageWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/PageWrapper.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/Log.java
+END
+WrapperActionDelimiterConditionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/WrapperActionDelimiterConditionHandler.java
+END
+ErrorFlag.awl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ErrorFlag.awl
+END
+HTMLActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/trunk/src/widgets/ariba/ui/widgets/HTMLActions.java
+END
+MRUTabList.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/32/trunk/src/widgets/ariba/ui/widgets/MRUTabList.java
+END
+SectionHeading.awl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/32/trunk/src/widgets/ariba/ui/widgets/SectionHeading.awl
+END
+SetterLink.awl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/SetterLink.awl
+END
+AribaLoginForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/src/widgets/ariba/ui/widgets/AribaLoginForm.java
+END
+ModalPageWrapper.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/32/trunk/src/widgets/ariba/ui/widgets/ModalPageWrapper.awl
+END
+BindingNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/BindingNames.java
+END
+SpotlightFooter.awl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/SpotlightFooter.awl
+END
+FooterLinks.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/FooterLinks.awl
+END
+ClientPanelWrapper.awl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7/trunk/src/widgets/ariba/ui/widgets/ClientPanelWrapper.awl
+END
+AribaCommandBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/widgets/AribaCommandBar.java
+END
+AribaNotificationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/27/trunk/src/widgets/ariba/ui/widgets/AribaNotificationDialog.java
+END
+AribaNotificationDialog.awl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/27/trunk/src/widgets/ariba/ui/widgets/AribaNotificationDialog.awl
+END
+HintMessage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/27/trunk/src/widgets/ariba/ui/widgets/HintMessage.awl
+END
+DeferredDisplayWrapper.awl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/DeferredDisplayWrapper.awl
+END
+StepByStepTOC.awl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/StepByStepTOC.awl
+END
+WidgetsSessionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/WidgetsSessionState.java
+END
+ModalWindowClose.awl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ModalWindowClose.awl
+END
+FileUploadStatusBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/15/trunk/src/widgets/ariba/ui/widgets/FileUploadStatusBar.java
+END
+Spotlight.awl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/Spotlight.awl
+END
+StepNavigatorButton.awl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/28/trunk/src/widgets/ariba/ui/widgets/StepNavigatorButton.awl
+END
+FileBrowser.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/FileBrowser.awl
+END
+CornerLayout.awl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/CornerLayout.awl
+END
+OutlineBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26/trunk/src/widgets/ariba/ui/widgets/OutlineBox.java
+END
+PollDialog.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/28/trunk/src/widgets/ariba/ui/widgets/PollDialog.awl
+END
+CueTip.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/32/trunk/src/widgets/ariba/ui/widgets/CueTip.java
+END
+WizardButtonsBarTop.awl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/WizardButtonsBarTop.awl
+END
+BasicNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/BasicNavigator.java
+END
+BucketHeading.awl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/BucketHeading.awl
+END
+ModalWindowExceptionPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ModalWindowExceptionPage.java
+END
+AribaBanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/AribaBanner.java
+END
+TocPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/TocPanel.java
+END
+MessagesList.awl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/MessagesList.awl
+END
+HasSidebarNotchConditionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/HasSidebarNotchConditionHandler.java
+END
+TocPanel.awl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/TocPanel.awl
+END
+ConfirmationLink.awl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ConfirmationLink.awl
+END
+BrandedComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7/trunk/src/widgets/ariba/ui/widgets/BrandedComponent.java
+END
+TextButton.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/29/trunk/src/widgets/ariba/ui/widgets/TextButton.awl
+END
+DisplayProductImageInBannerAreaConditionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/DisplayProductImageInBannerAreaConditionHandler.java
+END
+ModalWindowWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ModalWindowWrapper.java
+END
+PollDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/28/trunk/src/widgets/ariba/ui/widgets/PollDialog.java
+END
+ModalWindowWrapper.awl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/27/trunk/src/widgets/ariba/ui/widgets/ModalWindowWrapper.awl
+END
+TextFormSubmitButton.awl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7/trunk/src/widgets/ariba/ui/widgets/TextFormSubmitButton.awl
+END
+FormatterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/FormatterFactory.java
+END
+FourZoneLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/FourZoneLayout.java
+END
+ConfirmationLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ConfirmationLink.java
+END
+AribaBanner.awl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/AribaBanner.awl
+END
+HintMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/27/trunk/src/widgets/ariba/ui/widgets/HintMessage.java
+END
+FourZoneLayout.awl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/16/trunk/src/widgets/ariba/ui/widgets/FourZoneLayout.awl
+END
+DeferredDisplayWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/DeferredDisplayWrapper.java
+END
+PopupMenuLink.awl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/PopupMenuLink.awl
+END
+BaseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/BaseHandler.java
+END
+TruncateString.awl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/src/widgets/ariba/ui/widgets/TruncateString.awl
+END
+HoverCard.awl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/HoverCard.awl
+END
+PunchOutHeader.awl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/PunchOutHeader.awl
+END
+Markdown.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/16/trunk/src/widgets/ariba/ui/widgets/Markdown.java
+END
+AribaImage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/AribaImage.awl
+END
+AribaCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/AribaCondition.java
+END
+WizardButtonsBarTop.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/WizardButtonsBarTop.java
+END
+AribaCondition.awl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/AribaCondition.awl
+END
+DialogContentWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/DialogContentWrapper.java
+END
+WaterMark.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/WaterMark.java
+END
+DocumentHead.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/DocumentHead.java
+END
+GoogleAnalyticsFooter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/widgets/GoogleAnalyticsFooter.java
+END
+AribaCommandBar.awl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/AribaCommandBar.awl
+END
+ErrorBubble.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ErrorBubble.java
+END
+AribaString.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/AribaString.java
+END
+PopupMenuLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/PopupMenuLink.java
+END
+ErrorBubble.awl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/28/trunk/src/widgets/ariba/ui/widgets/ErrorBubble.awl
+END
+AribaString.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/AribaString.awl
+END
+StepByStepTOC.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/StepByStepTOC.java
+END
+BucketsTOC.awl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/BucketsTOC.awl
+END
+RoundedBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/RoundedBox.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/Constants.java
+END
+BaseTabSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/32/trunk/src/widgets/ariba/ui/widgets/BaseTabSet.java
+END
+DateField.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/32/trunk/src/widgets/ariba/ui/widgets/DateField.java
+END
+TabSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/30/trunk/src/widgets/ariba/ui/widgets/TabSet.java
+END
+AribaContactBoxLink.awl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/AribaContactBoxLink.awl
+END
+SessionManagerInclude.awl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/SessionManagerInclude.awl
+END
+Substep.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/Substep.java
+END
+Substep.awl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/Substep.awl
+END
+RadioButtonList.awl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/RadioButtonList.awl
+END
+TableHeaderRow.awl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/TableHeaderRow.awl
+END
+ShowTipPreferenceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ShowTipPreferenceHandler.java
+END
+ToggleBox.awl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/src/widgets/ariba/ui/widgets/ToggleBox.awl
+END
+GoogleAnalyticsHeader.awl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/GoogleAnalyticsHeader.awl
+END
+DialogPageWrapper.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/DialogPageWrapper.awl
+END
+TopFrameRedirect.awl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/TopFrameRedirect.awl
+END
+PopupControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/PopupControl.java
+END
+BucketsTOC.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/BucketsTOC.java
+END
+MessageBanner.awl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/17/trunk/src/widgets/ariba/ui/widgets/MessageBanner.awl
+END
+StepNavigatorBar.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/StepNavigatorBar.awl
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/32/trunk/src/widgets/ariba/ui/widgets/Util.java
+END
+SimpleTocPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/SimpleTocPanel.java
+END
+DisableHelpActionConditionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/DisableHelpActionConditionHandler.java
+END
+BasicPageWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/BasicPageWrapper.java
+END
+HelpActionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/HelpActionHandler.java
+END
+AribaToc.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/AribaToc.java
+END
+RadioButtonList.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/RadioButtonList.java
+END
+ErrorIndicator.awl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/32/trunk/src/widgets/ariba/ui/widgets/ErrorIndicator.awl
+END
+TextFormSubmitButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/TextFormSubmitButton.java
+END
+Confirmation.awl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/30/trunk/src/widgets/ariba/ui/widgets/Confirmation.awl
+END
+ModalPageWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/src/widgets/ariba/ui/widgets/ModalPageWrapper.java
+END
+ComboButton.awl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/ComboButton.awl
+END
+RoundedCorners.awl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/RoundedCorners.awl
+END
+BucketItem.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/src/widgets/ariba/ui/widgets/BucketItem.awl
+END
+PopupCalendar.awl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/PopupCalendar.awl
+END
+ModalWindowScriptFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ModalWindowScriptFunctions.java
+END
+GoogleAnalyticsFooter.awl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/src/widgets/ariba/ui/widgets/GoogleAnalyticsFooter.awl
+END
+PopupControl.awl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/PopupControl.awl
+END
+ToggleSidebarActionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ToggleSidebarActionHandler.java
+END
+AribaPageContent.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/17/trunk/src/widgets/ariba/ui/widgets/AribaPageContent.awl
+END
+PageErrorPanel.awl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10/trunk/src/widgets/ariba/ui/widgets/PageErrorPanel.awl
+END
+ModalWindowClose.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ModalWindowClose.java
+END
+TwoToneBox.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/widgets/TwoToneBox.awl
+END
+StepNavigatorButtonContent.awl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/StepNavigatorButtonContent.awl
+END
+AribaNavigationBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/widgets/AribaNavigationBar.java
+END
+AribaToc.awl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/widgets/ariba/ui/widgets/AribaToc.awl
+END
+ErrorIndicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/trunk/src/widgets/ariba/ui/widgets/ErrorIndicator.java
+END
+PopupMenu.awl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/32/trunk/src/widgets/ariba/ui/widgets/PopupMenu.awl
+END
+RoundedStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/RoundedStep.java
+END
+XMLUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/widgets/ariba/ui/widgets/XMLUtil.java
+END
+WidgetsDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/WidgetsDelegate.java
+END
+ModalWindowExceptionPage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ModalWindowExceptionPage.awl
+END
+IsAccessibilityEnabledConditionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/IsAccessibilityEnabledConditionHandler.java
+END
+AribaSite.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/src/widgets/ariba/ui/widgets/AribaSite.java
+END
+ClientSideTemplates.awl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ClientSideTemplates.awl
+END
+PageErrorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/30/trunk/src/widgets/ariba/ui/widgets/PageErrorPanel.java
+END
+AribaPageContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/17/trunk/src/widgets/ariba/ui/widgets/AribaPageContent.java
+END
+HideBannerImageConditionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/HideBannerImageConditionHandler.java
+END
+FileUploadChooser.awl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/15/trunk/src/widgets/ariba/ui/widgets/FileUploadChooser.awl
+END
+Calendar.awl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/32/trunk/src/widgets/ariba/ui/widgets/Calendar.awl
+END
+AribaResourceUrl.awl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/AribaResourceUrl.awl
+END
+SearchBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/27/trunk/src/widgets/ariba/ui/widgets/SearchBox.java
+END
+CommunityContentPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/CommunityContentPane.java
+END
+TabSet.awl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/30/trunk/src/widgets/ariba/ui/widgets/TabSet.awl
+END
+TableHeaderRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/TableHeaderRow.java
+END
+IsSidebarVisibleConditionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/IsSidebarVisibleConditionHandler.java
+END
+AribaHelp.awl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/AribaHelp.awl
+END
+SpotlightFooter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/SpotlightFooter.java
+END
+WidgetsJavaScript.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/WidgetsJavaScript.awl
+END
+PulldownButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/PulldownButton.java
+END
+ChooserState.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/27/trunk/src/widgets/ariba/ui/widgets/ChooserState.java
+END
+PopupMenuHeading.awl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/PopupMenuHeading.awl
+END
+AribaAction.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/AribaAction.awl
+END
+HeaderIncludes.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/widgets/HeaderIncludes.java
+END
+ChooserPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/src/widgets/ariba/ui/widgets/ChooserPanel.java
+END
+SectionBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/SectionBody.java
+END
+DateField.awl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/32/trunk/src/widgets/ariba/ui/widgets/DateField.awl
+END
+PopupMenuButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/PopupMenuButton.java
+END
+AribaNavigationBar.awl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/AribaNavigationBar.awl
+END
+Confirmation.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/27/trunk/src/widgets/ariba/ui/widgets/Confirmation.java
+END
+ChooserSelectionSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ChooserSelectionSource.java
+END
+WizardButtonsBarBottom.awl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/WizardButtonsBarBottom.awl
+END
+TableHeaderDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7/trunk/src/widgets/ariba/ui/widgets/TableHeaderDelegate.java
+END
+RemoveContentLeftRightMarginHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/RemoveContentLeftRightMarginHandler.java
+END
+IsNavigatorBarVisibleConditionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/IsNavigatorBarVisibleConditionHandler.java
+END
+TabList.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/TabList.java
+END
+DocumentHead.awl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/DocumentHead.awl
+END
+ModalWindowScriptFunctions.awl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ModalWindowScriptFunctions.awl
+END
+OutlineMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/OutlineMenu.java
+END
+AribaSite.awl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/src/widgets/ariba/ui/widgets/AribaSite.awl
+END
+FileUploadChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/15/trunk/src/widgets/ariba/ui/widgets/FileUploadChooser.java
+END
+DialogBox.awl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/trunk/src/widgets/ariba/ui/widgets/DialogBox.awl
+END
+ToggleBoxHeading.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ToggleBoxHeading.java
+END
+ActionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/src/widgets/ariba/ui/widgets/ActionHandler.java
+END
+Spotlight.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/Spotlight.java
+END
+AribaBasicPageWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/AribaBasicPageWrapper.java
+END
+FileUploadStatusBar.awl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/FileUploadStatusBar.awl
+END
+AribaPrintMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/AribaPrintMenu.java
+END
+TocPanelItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/TocPanelItem.java
+END
+CommunityContentPane.awl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/CommunityContentPane.awl
+END
+PopupMenuButton.awl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/widgets/PopupMenuButton.awl
+END
+AribaHelp.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/AribaHelp.java
+END
+PopupMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/PopupMenu.java
+END
+WidgetInclude.awl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/WidgetInclude.awl
+END
+ToggleBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/ToggleBox.java
+END
+PortletWrapper.awl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/19/trunk/src/widgets/ariba/ui/widgets/PortletWrapper.awl
+END
+BucketHeading.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/BucketHeading.java
+END
+DisableLogoutActionConditionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/DisableLogoutActionConditionHandler.java
+END
+NeedsDelimiterConditionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/widgets/NeedsDelimiterConditionHandler.java
+END
+Chooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/widgets/Chooser.java
+END

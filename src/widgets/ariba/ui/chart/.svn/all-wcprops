@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/src/widgets/ariba/ui/chart
+END
+Chart.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/src/widgets/ariba/ui/chart/Chart.java
+END
+Chart.awl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/src/widgets/ariba/ui/chart/Chart.awl
+END
+Initialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10/trunk/src/widgets/ariba/ui/chart/Initialization.java
+END
+ChartData.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10/trunk/src/widgets/ariba/ui/chart/ChartData.java
+END
+ChartPivotData.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10/trunk/src/widgets/ariba/ui/chart/ChartPivotData.java
+END
+ChartData.awl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/trunk/src/widgets/ariba/ui/chart/ChartData.awl
+END
+ChartPivotData.awl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/src/widgets/ariba/ui/chart/ChartPivotData.awl
+END

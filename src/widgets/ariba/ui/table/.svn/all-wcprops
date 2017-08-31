@@ -1,0 +1,533 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/table
+END
+Initialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/Initialization.java
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/README.txt
+END
+AWTPivotAttributesColumnRenderer.awl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTPivotAttributesColumnRenderer.awl
+END
+AWTMetaContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTMetaContent.java
+END
+BindingNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/src/widgets/ariba/ui/table/BindingNames.java
+END
+anxTableOptions.gif
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/anxTableOptions.gif
+END
+AWTDisplayGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/table/AWTDisplayGroup.java
+END
+AWTOptionsMenuItems.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/27/trunk/src/widgets/ariba/ui/table/AWTOptionsMenuItems.java
+END
+anxPageRightDouble.gif
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/anxPageRightDouble.gif
+END
+AWTDynamicColumns.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/25/trunk/src/widgets/ariba/ui/table/AWTDynamicColumns.java
+END
+AWTOptionalColumnsPage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTOptionalColumnsPage.awl
+END
+AWTCSVData.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTCSVData.java
+END
+AWTSingleSelectColumnRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTSingleSelectColumnRenderer.java
+END
+anxPageRight.gif
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/anxPageRight.gif
+END
+AWTRowDetailExpandoColumn.awl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/widgets/ariba/ui/table/AWTRowDetailExpandoColumn.awl
+END
+AWTDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/16/trunk/src/widgets/ariba/ui/table/AWTDataSource.java
+END
+AWTButtonAreaRenderer.awl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTButtonAreaRenderer.awl
+END
+AWTMetaColumnRenderer.awl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTMetaColumnRenderer.awl
+END
+anxPageLeftDouble.gif
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/anxPageLeftDouble.gif
+END
+AWTPivotState.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/27/trunk/src/widgets/ariba/ui/table/AWTPivotState.java
+END
+AWTRightButtonArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTRightButtonArea.java
+END
+AWTMetaColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTMetaColumn.java
+END
+AWTButtonArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTButtonArea.java
+END
+AWTSortHeading.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/16/trunk/src/widgets/ariba/ui/table/AWTSortHeading.java
+END
+anxCheckFalse.gif
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/anxCheckFalse.gif
+END
+awtDetailCollapse.gif
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/table/awtDetailCollapse.gif
+END
+AWTScrollTableWrapper.awl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/table/AWTScrollTableWrapper.awl
+END
+AWTDragList.awl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTDragList.awl
+END
+AWTPivotAttributesColumnRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTPivotAttributesColumnRenderer.java
+END
+AWTRowAttributeExpandoColumnRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/table/AWTRowAttributeExpandoColumnRenderer.java
+END
+btnRowCornerBottom.gif
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/btnRowCornerBottom.gif
+END
+anxWaitSpinner.gif
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/table/anxWaitSpinner.gif
+END
+awtDetailExpandOver.gif
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/table/awtDetailExpandOver.gif
+END
+AWTRowDetailRenderer.awl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/src/widgets/ariba/ui/table/AWTRowDetailRenderer.awl
+END
+AWTDataTable.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/32/trunk/src/widgets/ariba/ui/table/AWTDataTable.awl
+END
+AWTColumnRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTColumnRenderer.java
+END
+AWTColumnRenderer.awl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTColumnRenderer.awl
+END
+AWTBatchNavigationBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTBatchNavigationBar.java
+END
+AWTColumnManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/table/AWTColumnManager.java
+END
+AWTMultiSelectColumnRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/28/trunk/src/widgets/ariba/ui/table/AWTMultiSelectColumnRenderer.java
+END
+AWTSingleSelectColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTSingleSelectColumn.java
+END
+AWTRowAttributeLabelColumnRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/table/AWTRowAttributeLabelColumnRenderer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7/trunk/src/widgets/ariba/ui/table/package.html
+END
+AWTRowAttributeLabelColumnRenderer.awl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/table/AWTRowAttributeLabelColumnRenderer.awl
+END
+AWTDragList.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTDragList.java
+END
+AWTSortHeading.awl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/16/trunk/src/widgets/ariba/ui/table/AWTSortHeading.awl
+END
+AWTSelectionButtonArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTSelectionButtonArea.java
+END
+AWTOptionsMenuButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTOptionsMenuButton.java
+END
+AWTOptionsMenuButton.awl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/25/trunk/src/widgets/ariba/ui/table/AWTOptionsMenuButton.awl
+END
+AWTHeadingAreaRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTHeadingAreaRenderer.java
+END
+AWTSortOrdering.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/src/widgets/ariba/ui/table/AWTSortOrdering.java
+END
+AWTRowAttributeExpandoColumnRenderer.awl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/19/trunk/src/widgets/ariba/ui/table/AWTRowAttributeExpandoColumnRenderer.awl
+END
+AWTDataTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/table/AWTDataTable.java
+END
+AWTRowDetailRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/src/widgets/ariba/ui/table/AWTRowDetailRenderer.java
+END
+AWTOptionsMenuItems.awl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/table/AWTOptionsMenuItems.awl
+END
+awtDetailExpand.gif
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/table/awtDetailExpand.gif
+END
+AWTSingleSelectColumnRenderer.awl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTSingleSelectColumnRenderer.awl
+END
+AWTColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/src/widgets/ariba/ui/table/AWTColumn.java
+END
+AWTMultiSelectColumnRenderer.awl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTMultiSelectColumnRenderer.awl
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/Log.java
+END
+anxPageLeft.gif
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/anxPageLeft.gif
+END
+AWTExportConditional.awl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTExportConditional.awl
+END
+AWTMultiSelectColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTMultiSelectColumn.java
+END
+anxProgressBar.gif
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/anxProgressBar.gif
+END
+AWTMetaContentRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTMetaContentRenderer.java
+END
+AWTMetaContentRenderer.awl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTMetaContentRenderer.awl
+END
+AWTPivotConfigurationPanel.awl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/25/trunk/src/widgets/ariba/ui/table/AWTPivotConfigurationPanel.awl
+END
+AWTEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTEntity.java
+END
+AWTNullWrapper.awl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTNullWrapper.awl
+END
+AWTDynamicDetailAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTDynamicDetailAttributes.java
+END
+btnRowCornerTop.gif
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/btnRowCornerTop.gif
+END
+AWTHeadingAreaRenderer.awl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTHeadingAreaRenderer.awl
+END
+AWTOptionalColumnsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/22/trunk/src/widgets/ariba/ui/table/AWTOptionalColumnsPage.java
+END
+btnRowCornerBottomModern.gif
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/btnRowCornerBottomModern.gif
+END
+AWTRowDetailExpandoColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/src/widgets/ariba/ui/table/AWTRowDetailExpandoColumn.java
+END
+AWTBatchNavigationBar.awl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTBatchNavigationBar.awl
+END
+AWTHeadingArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTHeadingArea.java
+END
+AWTRowDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14/trunk/src/widgets/ariba/ui/table/AWTRowDetail.java
+END
+AWTMetaColumnRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/table/AWTMetaColumnRenderer.java
+END
+AWTButtonAreaRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTButtonAreaRenderer.java
+END
+anxCheckTrue.gif
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/anxCheckTrue.gif
+END
+ResourceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/src/widgets/ariba/ui/table/ResourceLocator.java
+END
+AWTExcelWrapper.awl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/src/widgets/ariba/ui/table/AWTExcelWrapper.awl
+END
+AWTExportConditional.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/table/AWTExportConditional.java
+END
+awtDetailCollapseOver.gif
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11/trunk/src/widgets/ariba/ui/table/awtDetailCollapseOver.gif
+END
+AWTCSVDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/21/trunk/src/widgets/ariba/ui/table/AWTCSVDataSource.java
+END
+AWTScrollTableWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/27/trunk/src/widgets/ariba/ui/table/AWTScrollTableWrapper.java
+END
+AWTPivotConfigurationPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/25/trunk/src/widgets/ariba/ui/table/AWTPivotConfigurationPanel.java
+END

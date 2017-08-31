@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/33/trunk/tools/templates
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/tools/templates/log4j.properties
+END
+jboss-deployment-structure.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/33/trunk/tools/templates/jboss-deployment-structure.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/27/trunk/tools/templates/web.xml
+END
+c3p0.properties
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/trunk/tools/templates/c3p0.properties
+END
+persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/16/trunk/tools/templates/persistence.xml
+END
+doctemplate.awl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/15/trunk/tools/templates/doctemplate.awl
+END
+aribaweb.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14/trunk/tools/templates/aribaweb.properties
+END

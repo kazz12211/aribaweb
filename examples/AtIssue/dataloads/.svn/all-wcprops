@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/33/trunk/examples/AtIssue/dataloads
+END
+model.Category.csv
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/examples/AtIssue/dataloads/model.Category.csv
+END
+ariba.appcore.User.csv
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/33/trunk/examples/AtIssue/dataloads/ariba.appcore.User.csv
+END

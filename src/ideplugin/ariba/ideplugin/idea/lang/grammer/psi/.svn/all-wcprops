@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi
+END
+OSSWrappedListImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSWrappedListImpl.java
+END
+OSSPrecedenceChainImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSPrecedenceChainImpl.java
+END
+OSSTokenType.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSTokenType.java
+END
+OSSRuleBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSRuleBody.java
+END
+OSSSimpleValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSSimpleValue.java
+END
+OSSValueOrListImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSValueOrListImpl.java
+END
+OSSElementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSElementType.java
+END
+OSSWrappedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSWrappedList.java
+END
+OSSValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSValueImpl.java
+END
+OSSVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSVisitor.java
+END
+OSSPrecedenceChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSPrecedenceChain.java
+END
+OSSTraitListImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSTraitListImpl.java
+END
+OSSSelectorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSSelectorImpl.java
+END
+OSSValueOrList.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSValueOrList.java
+END
+OSSKeyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSKeyImpl.java
+END
+OSSValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSValue.java
+END
+OSSRuleBodyKeyValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSRuleBodyKeyValueImpl.java
+END
+OSSLocalizedStringImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSLocalizedStringImpl.java
+END
+OSSFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSFile.java
+END
+OSSTraitList.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSTraitList.java
+END
+OSSSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSSelector.java
+END
+OSSSelectorDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSSelectorDefImpl.java
+END
+OSSKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSKey.java
+END
+OSSRuleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSRuleImpl.java
+END
+OSSRuleBodyKeyValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSRuleBodyKeyValue.java
+END
+OSSLocalizedString.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSLocalizedString.java
+END
+OSSSelectorValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSSelectorValueImpl.java
+END
+OSSMapImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSMapImpl.java
+END
+OSSSelectorDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSSelectorDef.java
+END
+OSSTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSTypes.java
+END
+OSSRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSRule.java
+END
+OSSRuleBodyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSRuleBodyImpl.java
+END
+OSSSimpleValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSSimpleValueImpl.java
+END
+OSSSelectorValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSSelectorValue.java
+END
+OSSMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/psi/OSSMap.java
+END

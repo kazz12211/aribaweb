@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/servletadaptor
+END
+AWServletRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/28/trunk/src/aribaweb/ariba/ui/servletadaptor/AWServletRequest.java
+END
+AWStreamingServletResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/servletadaptor/AWStreamingServletResponse.java
+END
+AWRecordingServletResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/servletadaptor/AWRecordingServletResponse.java
+END
+AWServletResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/28/trunk/src/aribaweb/ariba/ui/servletadaptor/AWServletResponse.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7/trunk/src/aribaweb/ariba/ui/servletadaptor/package.html
+END
+AWServletResourceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/7/trunk/src/aribaweb/ariba/ui/servletadaptor/AWServletResourceManager.java
+END
+AWServletApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/servletadaptor/AWServletApplication.java
+END
+AWDispatcherServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/servletadaptor/AWDispatcherServlet.java
+END
+AWAribaWeb.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/servletadaptor/AWAribaWeb.java
+END

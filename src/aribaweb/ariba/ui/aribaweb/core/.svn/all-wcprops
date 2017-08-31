@@ -1,0 +1,1409 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core
+END
+AWLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/19/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWLocal.java
+END
+AWRichClientJSDebug.awl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRichClientJSDebug.awl
+END
+AWContent.awapi
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/16/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWContent.awapi
+END
+AWWriterResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/15/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWWriterResponse.java
+END
+AWAppendEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWAppendEnvironment.java
+END
+AWConcreteTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWConcreteTemplate.java
+END
+AWPageRedirect.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWPageRedirect.java
+END
+AWInitializeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWInitializeValue.java
+END
+AWMappingRepetition.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/28/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWMappingRepetition.java
+END
+AWVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWVisitor.java
+END
+AWBaseMonitorStatsPage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWBaseMonitorStatsPage.awl
+END
+AWXLogString.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWXLogString.java
+END
+AWContentApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWContentApi.java
+END
+AWRequestDispatching.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRequestDispatching.java
+END
+AWHandleExceptionPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWHandleExceptionPage.java
+END
+AWComponentActionRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWComponentActionRequestHandler.java
+END
+AWDropContainer.awl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWDropContainer.awl
+END
+AWRemoteLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRemoteLink.java
+END
+AWContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWContent.java
+END
+AWBindableElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWBindableElement.java
+END
+AWOutputRangeCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWOutputRangeCheck.java
+END
+AWHtmlTemplateParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/28/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWHtmlTemplateParser.java
+END
+AWEditableRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWEditableRegion.java
+END
+AWIf.awapi
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWIf.awapi
+END
+AWActiveImage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWActiveImage.awl
+END
+AWSessionStatusManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/28/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWSessionStatusManager.java
+END
+AWUrlRedirect.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWUrlRedirect.java
+END
+AWLazyDiv.awl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWLazyDiv.awl
+END
+AWFor.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/30/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWFor.java
+END
+AWHtmlForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWHtmlForm.java
+END
+AWSessionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWSessionValidator.java
+END
+AWBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWBlock.java
+END
+AWSessionRestorationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/28/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWSessionRestorationException.java
+END
+AWTaggedContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWTaggedContainer.java
+END
+AWXHandleExceptionPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWXHandleExceptionPage.java
+END
+AWLazyDivInternals.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/32/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWLazyDivInternals.java
+END
+AWCycleableReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWCycleableReference.java
+END
+AWRichClientFooter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/28/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRichClientFooter.java
+END
+AWElementContaining.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWElementContaining.java
+END
+AWRichClientFooter.awl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/32/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRichClientFooter.awl
+END
+AWXmlContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWXmlContext.java
+END
+AWGenericActionTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWGenericActionTag.java
+END
+AWIncludeComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWIncludeComponent.java
+END
+AWFileDownload.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/28/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWFileDownload.java
+END
+AWMethodInvocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWMethodInvocation.java
+END
+AWComponentDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/19/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWComponentDefinition.java
+END
+AWDirectActionRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/32/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWDirectActionRequestHandler.java
+END
+AWApiDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWApiDeclaration.java
+END
+AWCycleable.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/16/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWCycleable.java
+END
+AWBaseElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWBaseElement.java
+END
+AWBackTrack.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWBackTrack.java
+END
+AWRequestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRequestUtil.java
+END
+AWGenericElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWGenericElement.java
+END
+AWBacktrackState.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWBacktrackState.java
+END
+AWComponentApiManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWComponentApiManager.java
+END
+AWBaseResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/32/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWBaseResponse.java
+END
+AWXBasicScriptFunctions.awl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWXBasicScriptFunctions.awl
+END
+AWConcreteXmlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWConcreteXmlNode.java
+END
+AWRemotePageWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRemotePageWrapper.java
+END
+AWActionId.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWActionId.java
+END
+AWCurrWindowDecl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWCurrWindowDecl.java
+END
+AWCurrWindowDecl.awl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWCurrWindowDecl.awl
+END
+AWValidationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWValidationContext.java
+END
+AWGroupingRepetition.awl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWGroupingRepetition.awl
+END
+AWBindable.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWBindable.java
+END
+AWRedirect.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRedirect.java
+END
+AWLazyDivInternals.awl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWLazyDivInternals.awl
+END
+AWRemoteTemplateParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRemoteTemplateParser.java
+END
+AWErrorInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/28/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWErrorInfo.java
+END
+AWMetaTemplateConditional.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWMetaTemplateConditional.java
+END
+AWComponentInclude.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWComponentInclude.java
+END
+AWRecordDirectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRecordDirectAction.java
+END
+AWRecordingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/25/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRecordingManager.java
+END
+AWXDebugResourceActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWXDebugResourceActions.java
+END
+AWScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWScope.java
+END
+AWInstanceInclude.awl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWInstanceInclude.awl
+END
+AWTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWTemplate.java
+END
+AWPollInterval.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/28/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWPollInterval.java
+END
+AWRemoteLink.awl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRemoteLink.awl
+END
+AWShutdownState.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWShutdownState.java
+END
+AWPollInterval.awl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/28/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWPollInterval.awl
+END
+AWAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWAction.java
+END
+AWIncludeContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWIncludeContent.java
+END
+AWVisitable.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWVisitable.java
+END
+AWViewportContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWViewportContainer.java
+END
+AWStaticContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWStaticContent.java
+END
+AWErrorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWErrorManager.java
+END
+AWHighLightedErrorScope.awl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWHighLightedErrorScope.awl
+END
+AWFormRedirect.awl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWFormRedirect.awl
+END
+AWRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRequest.java
+END
+AWElse.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWElse.java
+END
+AWBaseMonitorStatsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWBaseMonitorStatsPage.java
+END
+AWIncludeBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/15/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWIncludeBlock.java
+END
+AWPrimitiveString.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/32/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWPrimitiveString.java
+END
+AWIncludeExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/31/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWIncludeExample.java
+END
+AWMergedStringLocalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWMergedStringLocalizer.java
+END
+AWSwitchTemplate.awl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWSwitchTemplate.awl
+END
+AWBareString.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWBareString.java
+END
+AWActionUrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWActionUrl.java
+END
+AWResponseGenerating.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/16/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWResponseGenerating.java
+END
+AWXLogString.awl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWXLogString.awl
+END
+AWExceptionBodyRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/25/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWExceptionBodyRenderer.java
+END
+AWBindingApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWBindingApi.java
+END
+AWExceptionBodyRenderer.awl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/25/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWExceptionBodyRenderer.awl
+END
+AWMonitorStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/28/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWMonitorStats.java
+END
+AWHiddenFormValueManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWHiddenFormValueManager.java
+END
+AWMonitorSessionStatsPage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWMonitorSessionStatsPage.awl
+END
+AWBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/19/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWBinding.java
+END
+AWComponentConfigurationSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWComponentConfigurationSource.java
+END
+AWConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/25/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWConstants.java
+END
+AWSessionValidationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWSessionValidationException.java
+END
+AWActiveImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWActiveImage.java
+END
+AWHandledException.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWHandledException.java
+END
+AWRelocatableDiv.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRelocatableDiv.java
+END
+AWDragContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWDragContainer.java
+END
+AWErrorManagerScope.awl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWErrorManagerScope.awl
+END
+AWHighLightedErrorScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWHighLightedErrorScope.java
+END
+AWViewportContainer.awl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/32/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWViewportContainer.awl
+END
+AWExampleApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/31/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWExampleApi.java
+END
+AWLocalLoginSessionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWLocalLoginSessionHandler.java
+END
+AWConcreteApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWConcreteApplication.java
+END
+AWSiteUnavailableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWSiteUnavailableException.java
+END
+AWHoverContainer.awl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/32/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWHoverContainer.awl
+END
+AWFormValueManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWFormValueManager.java
+END
+AWClearBrowserHistoryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWClearBrowserHistoryException.java
+END
+AWGroupingRepetition.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWGroupingRepetition.java
+END
+AWMessageTemplateParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/27/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWMessageTemplateParser.java
+END
+AWResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWResponse.java
+END
+AWBindingDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWBindingDictionary.java
+END
+AWRefreshRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/15/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRefreshRegion.java
+END
+AWEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWEnvironment.java
+END
+AWFor.awapi
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWFor.awapi
+END
+AWDropContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWDropContainer.java
+END
+AWWhile.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWWhile.java
+END
+AWFileDownloadStatusCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWFileDownloadStatusCheck.java
+END
+AWInputId.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWInputId.java
+END
+FieldValue_AWSubcomponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/FieldValue_AWSubcomponent.java
+END
+AWFocusRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/19/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWFocusRegion.java
+END
+AWJSDebug.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWJSDebug.java
+END
+AWFocusRegion.awl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWFocusRegion.awl
+END
+AWJSDebug.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWJSDebug.awl
+END
+AWFormRedirect.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWFormRedirect.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/src/aribaweb/ariba/ui/aribaweb/core/package.html
+END
+AWIncludeComponent.awapi
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWIncludeComponent.awapi
+END
+AWHoverControl.awl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/32/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWHoverControl.awl
+END
+AWSetValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWSetValue.java
+END
+AWResourceOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWResourceOverlay.java
+END
+AWPhaseInvocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWPhaseInvocation.java
+END
+AWSwitchTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWSwitchTemplate.java
+END
+AWIf.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWIf.java
+END
+AWRequestLocking.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRequestLocking.java
+END
+AWXHandleExceptionPage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWXHandleExceptionPage.awl
+END
+AWRequestValidation.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/32/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRequestValidation.java
+END
+AWCommunityResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWCommunityResponse.java
+END
+AWApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWApplication.java
+END
+AWMonitorStatsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWMonitorStatsPage.java
+END
+AWDefaultRequestFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWDefaultRequestFilter.java
+END
+AWRefreshRegion.awl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/16/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRefreshRegion.awl
+END
+AWTaggedElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWTaggedElement.java
+END
+AWCommunityResponse.awl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWCommunityResponse.awl
+END
+AWMonitorActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWMonitorActions.java
+END
+AWDirectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWDirectAction.java
+END
+AWConcreteRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWConcreteRequestHandler.java
+END
+AWFileDownload.awl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWFileDownload.awl
+END
+AWResourceUrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWResourceUrl.java
+END
+AWPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWPage.java
+END
+AWElementIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWElementIdGenerator.java
+END
+AWXSessionRestorationErrorPage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWXSessionRestorationErrorPage.awl
+END
+AWLazyAction.awl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/32/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWLazyAction.awl
+END
+AWComponentReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/23/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWComponentReference.java
+END
+NonMergedStringLocalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/NonMergedStringLocalizer.java
+END
+AWCatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWCatch.java
+END
+AWElementIdPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/30/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWElementIdPath.java
+END
+AWSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWSession.java
+END
+AWBaseRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWBaseRequest.java
+END
+AWHoverControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/32/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWHoverControl.java
+END
+AWSessionRestorationErrorPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWSessionRestorationErrorPage.java
+END
+AWParentTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWParentTemplate.java
+END
+AWRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRequestHandler.java
+END
+AWXBasicScriptFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWXBasicScriptFunctions.java
+END
+AWActionCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWActionCallback.java
+END
+UIRenderMeta.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/UIRenderMeta.java
+END
+AWJavascriptString.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/30/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWJavascriptString.java
+END
+AWBindingNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWBindingNames.java
+END
+AWRemoteHostMismatchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/28/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRemoteHostMismatchException.java
+END
+AWNavigation.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWNavigation.java
+END
+AWSingleton.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWSingleton.java
+END
+AWChecksum.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/20/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWChecksum.java
+END
+AWSubcomponentScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWSubcomponentScope.java
+END
+AWGenericActionTag.awl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/15/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWGenericActionTag.awl
+END
+AWApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/31/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWApi.java
+END
+AWPageCacheMark.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWPageCacheMark.java
+END
+AWStringLocalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWStringLocalizer.java
+END
+AWXSessionRestorationErrorPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWXSessionRestorationErrorPage.java
+END
+AWErrorManagerScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWErrorManagerScope.java
+END
+AWIncludeBlock.awapi
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/15/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWIncludeBlock.awapi
+END
+AWRefreshCompleteScript.awl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRefreshCompleteScript.awl
+END
+AWEditableRegion.awl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWEditableRegion.awl
+END
+AWXStatisticsPage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWXStatisticsPage.awl
+END
+AWRelocatableDiv.awl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRelocatableDiv.awl
+END
+AWDragContainer.awl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWDragContainer.awl
+END
+AWMetaTemplateWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWMetaTemplateWrapper.java
+END
+AWCatch.awl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWCatch.awl
+END
+AWMetaTemplateWrapper.awl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWMetaTemplateWrapper.awl
+END
+AWHoverContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWHoverContainer.java
+END
+AWErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWErrorHandler.java
+END
+AWElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/16/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWElement.java
+END
+AWServerApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWServerApplication.java
+END
+AWDirectActionUrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/29/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWDirectActionUrl.java
+END
+AWContainerElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWContainerElement.java
+END
+AWRequestContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWRequestContext.java
+END
+AWComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWComponent.java
+END
+AWComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/15/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWComment.java
+END
+AWSingleton.awl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWSingleton.awl
+END
+AWString.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWString.java
+END
+AWXmlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWXmlNode.java
+END
+AWMonitorSessionStatsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWMonitorSessionStatsPage.java
+END
+AWInstanceInclude.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWInstanceInclude.java
+END
+AWDefaultApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWDefaultApplication.java
+END
+AWCookie.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWCookie.java
+END
+AWLocal.awapi
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/16/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWLocal.awapi
+END
+AWHiddenFormValueHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWHiddenFormValueHandler.java
+END
+AWFullValidationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWFullValidationHandler.java
+END
+AWConcreteServerApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWConcreteServerApplication.java
+END
+AWLazyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/32/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWLazyAction.java
+END
+AWGenericContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWGenericContainer.java
+END
+AWFormValueOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWFormValueOperation.java
+END
+AWLazyDiv.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWLazyDiv.java
+END
+AWMissingBindingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWMissingBindingException.java
+END
+AWDebugRemoteOpen.awl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWDebugRemoteOpen.awl
+END
+AWErrorBucket.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/27/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWErrorBucket.java
+END
+AWMessageArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWMessageArgument.java
+END
+AWResponseBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/32/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWResponseBuffer.java
+END
+AWTemplateParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/core/AWTemplateParser.java
+END

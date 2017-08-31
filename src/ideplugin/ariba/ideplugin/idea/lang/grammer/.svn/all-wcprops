@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer
+END
+test2WP.oss
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/test2WP.oss
+END
+OSSParserUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/OSSParserUtil.java
+END
+OSSParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/OSSParser.java
+END
+OSSLexer.flex
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/OSSLexer.flex
+END
+test.oss
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/test.oss
+END
+_OSSLexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/_OSSLexer.java
+END
+OSSLexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/OSSLexer.java
+END
+oss.bnf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/grammer/oss.bnf
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/33/trunk/src/util/ariba/util/i18n
+END
+Support_pl.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/32/trunk/src/util/ariba/util/i18n/Support_pl.java
+END
+Support_hu.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/32/trunk/src/util/ariba/util/i18n/Support_hu.java
+END
+Support_iw.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7/trunk/src/util/ariba/util/i18n/Support_iw.java
+END
+I18NSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7/trunk/src/util/ariba/util/i18n/I18NSupport.java
+END
+I18NConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/33/trunk/src/util/ariba/util/i18n/I18NConstants.java
+END
+Support_ro.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/33/trunk/src/util/ariba/util/i18n/Support_ro.java
+END
+I18NUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/33/trunk/src/util/ariba/util/i18n/I18NUtil.java
+END
+LocalizedStringInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/11/trunk/src/util/ariba/util/i18n/LocalizedStringInterface.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5/trunk/src/util/ariba/util/i18n/package.html
+END
+Support_tr.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/32/trunk/src/util/ariba/util/i18n/Support_tr.java
+END
+Support_ru.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7/trunk/src/util/ariba/util/i18n/Support_ru.java
+END
+I18NEncodingConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/33/trunk/src/util/ariba/util/i18n/I18NEncodingConstants.java
+END
+I18NEncodingUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/33/trunk/src/util/ariba/util/i18n/I18NEncodingUtil.java
+END
+Support_ja.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/src/util/ariba/util/i18n/Support_ja.java
+END
+Support_zh_TW.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/util/ariba/util/i18n/Support_zh_TW.java
+END
+Support_el.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/33/trunk/src/util/ariba/util/i18n/Support_el.java
+END
+LocaleSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/util/ariba/util/i18n/LocaleSupport.java
+END
+Support_zh_CN.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/util/ariba/util/i18n/Support_zh_CN.java
+END
+LocalizedJavaString.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11/trunk/src/util/ariba/util/i18n/LocalizedJavaString.java
+END
+Support_zh_HK.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/util/ariba/util/i18n/Support_zh_HK.java
+END
+MergedStringLocalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/util/ariba/util/i18n/MergedStringLocalizer.java
+END
+CJKSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/src/util/ariba/util/i18n/CJKSupport.java
+END
+Support_ko.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/src/util/ariba/util/i18n/Support_ko.java
+END

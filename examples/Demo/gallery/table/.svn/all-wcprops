@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/33/trunk/examples/Demo/gallery/table
+END
+BidData.csv
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7/trunk/examples/Demo/gallery/table/BidData.csv
+END
+SimpleTable.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11/trunk/examples/Demo/gallery/table/SimpleTable.awl
+END
+XMLDataTable.awl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/examples/Demo/gallery/table/XMLDataTable.awl
+END
+GroupingTable.awl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/examples/Demo/gallery/table/GroupingTable.awl
+END
+FilterPanel.awl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/examples/Demo/gallery/table/FilterPanel.awl
+END
+OutlineData-RFP.csv
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/examples/Demo/gallery/table/OutlineData-RFP.csv
+END
+FilterPanel.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/examples/Demo/gallery/table/FilterPanel.groovy
+END
+DynamicPivotTable.awl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7/trunk/examples/Demo/gallery/table/DynamicPivotTable.awl
+END
+Users.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/33/trunk/examples/Demo/gallery/table/Users.xml
+END
+RFPPivotTable.awl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7/trunk/examples/Demo/gallery/table/RFPPivotTable.awl
+END
+RFPPivotTable.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/examples/Demo/gallery/table/RFPPivotTable.groovy
+END
+SimplePivotTable.awl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/examples/Demo/gallery/table/SimplePivotTable.awl
+END
+SimplePivotTable.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7/trunk/examples/Demo/gallery/table/SimplePivotTable.groovy
+END
+OutlineTable.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7/trunk/examples/Demo/gallery/table/OutlineTable.awl
+END
+OutlineTable.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/trunk/examples/Demo/gallery/table/OutlineTable.groovy
+END
+MetaContentTable.awl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/examples/Demo/gallery/table/MetaContentTable.awl
+END
+ExplorerPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7/trunk/examples/Demo/gallery/table/ExplorerPage.java
+END
+MetaContentTable.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7/trunk/examples/Demo/gallery/table/MetaContentTable.groovy
+END
+ExplorerPage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7/trunk/examples/Demo/gallery/table/ExplorerPage.awl
+END
+OutlineData-Simple-new.csv
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7/trunk/examples/Demo/gallery/table/OutlineData-Simple-new.csv
+END
+BidData-Full.csv
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7/trunk/examples/Demo/gallery/table/BidData-Full.csv
+END
+TableTabs.awl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9/trunk/examples/Demo/gallery/table/TableTabs.awl
+END
+GroupingTable.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/examples/Demo/gallery/table/GroupingTable.groovy
+END
+XMLDataTable.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/examples/Demo/gallery/table/XMLDataTable.groovy
+END
+PersonMasterDetail.awl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/15/trunk/examples/Demo/gallery/table/PersonMasterDetail.awl
+END
+OutlineData-Simple.csv
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7/trunk/examples/Demo/gallery/table/OutlineData-Simple.csv
+END
+OutlinePivotTable.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11/trunk/examples/Demo/gallery/table/OutlinePivotTable.awl
+END
+PivotTabs.awl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11/trunk/examples/Demo/gallery/table/PivotTabs.awl
+END
+OutlinePivotTable.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11/trunk/examples/Demo/gallery/table/OutlinePivotTable.groovy
+END
+AdvancedTable.awl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/trunk/examples/Demo/gallery/table/AdvancedTable.awl
+END
+AdvancedTable.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/trunk/examples/Demo/gallery/table/AdvancedTable.groovy
+END
+DynamicPivotTable.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/15/trunk/examples/Demo/gallery/table/DynamicPivotTable.groovy
+END
+SampleSpend.csv
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/examples/Demo/gallery/table/SampleSpend.csv
+END
+OutlineData-Complex.csv
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7/trunk/examples/Demo/gallery/table/OutlineData-Complex.csv
+END
+RFXList1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7/trunk/examples/Demo/gallery/table/RFXList1.xml
+END

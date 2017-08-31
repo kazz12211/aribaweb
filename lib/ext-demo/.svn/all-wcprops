@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/32/trunk/lib/ext-demo
+END
+lucene-core-3.6.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/32/trunk/lib/ext-demo/lucene-core-3.6.0.jar
+END
+lucene-highlighter-3.6.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/32/trunk/lib/ext-demo/lucene-highlighter-3.6.0.jar
+END

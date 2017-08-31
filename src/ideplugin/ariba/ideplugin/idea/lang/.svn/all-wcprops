@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang
+END
+AWLFileTypeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/AWLFileTypeFactory.java
+END
+OSSFileTypeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/OSSFileTypeFactory.java
+END
+OSSSyntaxHighlighterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/OSSSyntaxHighlighterFactory.java
+END
+AWIcons.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/AWIcons.java
+END
+AWLFileType.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/AWLFileType.java
+END
+OSSFileType.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/OSSFileType.java
+END
+OSSLanguage.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/OSSLanguage.java
+END
+AWDefaultNSProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/AWDefaultNSProvider.java
+END
+OSSParserDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/33/trunk/src/ideplugin/ariba/ideplugin/idea/lang/OSSParserDefinition.java
+END

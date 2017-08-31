@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/33/trunk/lib
+END
+EXT-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/lib/EXT-LICENSE.txt
+END
+EXT-COMPASS-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/trunk/lib/EXT-COMPASS-LICENSE.txt
+END
+EXT-JPA-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/16/trunk/lib/EXT-JPA-LICENSE.txt
+END

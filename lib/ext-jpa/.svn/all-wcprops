@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/14/trunk/lib/ext-jpa
+END
+commons-collections-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14/trunk/lib/ext-jpa/commons-collections-3.1.jar
+END
+jboss-archive-browsing.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7/trunk/lib/ext-jpa/jboss-archive-browsing.jar
+END
+antlr-2.7.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/7/trunk/lib/ext-jpa/antlr-2.7.6.jar
+END
+slf4j-api-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14/trunk/lib/ext-jpa/slf4j-api-1.5.2.jar
+END
+mpl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/7/trunk/lib/ext-jpa/mpl.txt
+END
+hibernate-annotations.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14/trunk/lib/ext-jpa/hibernate-annotations.jar
+END
+commons-logging-1.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7/trunk/lib/ext-jpa/commons-logging-1.0.4.jar
+END
+hibernate-tools.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14/trunk/lib/ext-jpa/hibernate-tools.jar
+END
+javassist-3.4.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/14/trunk/lib/ext-jpa/javassist-3.4.GA.jar
+END
+lgpl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/7/trunk/lib/ext-jpa/lgpl.txt
+END
+apache.license-2.0.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7/trunk/lib/ext-jpa/apache.license-2.0.txt
+END
+cglib-nodep-2.1_3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7/trunk/lib/ext-jpa/cglib-nodep-2.1_3.jar
+END
+slf4j-log4j12-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14/trunk/lib/ext-jpa/slf4j-log4j12-1.5.2.jar
+END
+antlr.license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7/trunk/lib/ext-jpa/antlr.license.txt
+END
+apache.license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7/trunk/lib/ext-jpa/apache.license.txt
+END
+hibernate-commons-annotations.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/trunk/lib/ext-jpa/hibernate-commons-annotations.jar
+END
+ejb3-persistence.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/14/trunk/lib/ext-jpa/ejb3-persistence.jar
+END
+hibernate-entitymanager.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14/trunk/lib/ext-jpa/hibernate-entitymanager.jar
+END
+hsqldb_lic.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/7/trunk/lib/ext-jpa/hsqldb_lic.txt
+END
+c3p0-0.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14/trunk/lib/ext-jpa/c3p0-0.9.1.jar
+END
+asm-attrs-2.2.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7/trunk/lib/ext-jpa/asm-attrs-2.2.3.jar
+END
+jta-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/trunk/lib/ext-jpa/jta-1.1.jar
+END
+hsqldb.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/7/trunk/lib/ext-jpa/hsqldb.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/7/trunk/lib/ext-jpa/dom4j-1.6.1.jar
+END
+hibernate3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14/trunk/lib/ext-jpa/hibernate3.jar
+END
+hibernate.license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7/trunk/lib/ext-jpa/hibernate.license.txt
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/examples/MasterDetail/model
+END
+Issue.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/examples/MasterDetail/model/Issue.groovy
+END
+rules.oss
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/15/trunk/examples/MasterDetail/model/rules.oss
+END
+ExtendedUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/21/trunk/examples/MasterDetail/model/ExtendedUser.java
+END
+Category.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/examples/MasterDetail/model/Category.groovy
+END
+Note.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15/trunk/examples/MasterDetail/model/Note.groovy
+END

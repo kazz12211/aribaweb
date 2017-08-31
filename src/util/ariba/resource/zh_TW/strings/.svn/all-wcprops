@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/33/trunk/src/util/ariba/resource/zh_TW/strings
+END
+ariba.auditCategoryNames.csv
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/33/trunk/src/util/ariba/resource/zh_TW/strings/ariba.auditCategoryNames.csv
+END
+ariba.logDescriptions.csv
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/33/trunk/src/util/ariba/resource/zh_TW/strings/ariba.logDescriptions.csv
+END
+ariba.util.formatter.csv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/22/trunk/src/util/ariba/resource/zh_TW/strings/ariba.util.formatter.csv
+END
+ariba.util.version.csv
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/32/trunk/src/util/ariba/resource/zh_TW/strings/ariba.util.version.csv
+END
+ariba.util.core.csv
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/33/trunk/src/util/ariba/resource/zh_TW/strings/ariba.util.core.csv
+END

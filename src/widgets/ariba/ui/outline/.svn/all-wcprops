@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/30/trunk/src/widgets/ariba/ui/outline
+END
+OutlineFolderControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/outline/OutlineFolderControl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7/trunk/src/widgets/ariba/ui/outline/package.html
+END
+OutlineInnerRepetition.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/outline/OutlineInnerRepetition.java
+END
+OutlineFolderControl.awl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/outline/OutlineFolderControl.awl
+END
+OutlineControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/outline/OutlineControl.java
+END
+OutlineState.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/30/trunk/src/widgets/ariba/ui/outline/OutlineState.java
+END
+OutlineInnerRepetition.awl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/outline/OutlineInnerRepetition.awl
+END
+OutlineControl.awl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/src/widgets/ariba/ui/outline/OutlineControl.awl
+END
+OutlineRepetition.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/30/trunk/src/widgets/ariba/ui/outline/OutlineRepetition.java
+END
+OutlineRepetition.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7/trunk/src/widgets/ariba/ui/outline/OutlineRepetition.awl
+END
+AWXArrowDown.gif
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/outline/AWXArrowDown.gif
+END
+Initialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/outline/Initialization.java
+END
+AWXFolderIcon.gif
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/outline/AWXFolderIcon.gif
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/outline/README.txt
+END
+AWXArrowRight.gif
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/outline/AWXArrowRight.gif
+END
+AWXFileIcon.gif
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/outline/AWXFileIcon.gif
+END
+BindingNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/outline/BindingNames.java
+END

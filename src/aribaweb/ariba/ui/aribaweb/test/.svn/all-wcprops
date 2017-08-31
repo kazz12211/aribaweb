@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/test
+END
+TestContextObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/15/trunk/src/aribaweb/ariba/ui/aribaweb/test/TestContextObjectFactory.java
+END
+TestSessionSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/30/trunk/src/aribaweb/ariba/ui/aribaweb/test/TestSessionSetup.java
+END
+ValidatorLoadException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15/trunk/src/aribaweb/ariba/ui/aribaweb/test/ValidatorLoadException.java
+END
+AnnotationUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/27/trunk/src/aribaweb/ariba/ui/aribaweb/test/AnnotationUtil.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/19/trunk/src/aribaweb/ariba/ui/aribaweb/test/Category.java
+END
+TestUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/27/trunk/src/aribaweb/ariba/ui/aribaweb/test/TestUnit.java
+END
+TestLinkClickCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/28/trunk/src/aribaweb/ariba/ui/aribaweb/test/TestLinkClickCallback.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/27/trunk/src/aribaweb/ariba/ui/aribaweb/test/Log.java
+END
+TestContextDataProviderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10/trunk/src/aribaweb/ariba/ui/aribaweb/test/TestContextDataProviderFactory.java
+END
+TestInspectorLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/25/trunk/src/aribaweb/ariba/ui/aribaweb/test/TestInspectorLink.java
+END
+TestContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/test/TestContext.java
+END
+TestLinkManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/28/trunk/src/aribaweb/ariba/ui/aribaweb/test/TestLinkManager.java
+END
+TestContextDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/19/trunk/src/aribaweb/ariba/ui/aribaweb/test/TestContextDataProvider.java
+END
+TestUnitPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/19/trunk/src/aribaweb/ariba/ui/aribaweb/test/TestUnitPair.java
+END
+TestLinkHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/32/trunk/src/aribaweb/ariba/ui/aribaweb/test/TestLinkHolder.java
+END

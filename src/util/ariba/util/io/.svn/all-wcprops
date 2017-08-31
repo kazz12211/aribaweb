@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/33/trunk/src/util/ariba/util/io
+END
+HTMLTemplateParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/HTMLTemplateParser.java
+END
+FileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7/trunk/src/util/ariba/util/io/FileHandler.java
+END
+CSVReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/32/trunk/src/util/ariba/util/io/CSVReader.java
+END
+TemporaryFileList.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/TemporaryFileList.java
+END
+IndentWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/IndentWriter.java
+END
+Deserializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/33/trunk/src/util/ariba/util/io/Deserializer.java
+END
+TaggedStringProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/TaggedStringProcessor.java
+END
+TemporaryFileName.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/TemporaryFileName.java
+END
+FilenameExtensionFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/FilenameExtensionFilter.java
+END
+TrueFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/TrueFilter.java
+END
+SerializeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/SerializeUtil.java
+END
+FileSortProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/FileSortProcess.java
+END
+UnicodeEscapeInputStreamReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/UnicodeEscapeInputStreamReader.java
+END
+FileSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/src/util/ariba/util/io/FileSort.java
+END
+TokenGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/TokenGenerator.java
+END
+CSVWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/27/trunk/src/util/ariba/util/io/CSVWriter.java
+END
+TemplateParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/TemplateParser.java
+END
+BufferedSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/trunk/src/util/ariba/util/io/BufferedSort.java
+END
+StatsOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/StatsOutputStream.java
+END
+CharToByteUnicodeEscape.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/CharToByteUnicodeEscape.java
+END
+ByteToCharUnicodeEscape.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/ByteToCharUnicodeEscape.java
+END
+TemporaryFileFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/TemporaryFileFactoryImpl.java
+END
+UnicodeEscapeOutputStreamWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/UnicodeEscapeOutputStreamWriter.java
+END
+ObjectOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/ObjectOutputStream.java
+END
+MultiPrintWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/MultiPrintWriter.java
+END
+TruncationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/25/trunk/src/util/ariba/util/io/TruncationException.java
+END
+NullOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/NullOutputStream.java
+END
+CSVDefaultErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/31/trunk/src/util/ariba/util/io/CSVDefaultErrorHandler.java
+END
+Serializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7/trunk/src/util/ariba/util/io/Serializer.java
+END
+TemporaryFileFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/TemporaryFileFactory.java
+END
+DirectoryFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/DirectoryFilter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/package.html
+END
+CSVReaderSelect.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/CSVReaderSelect.java
+END
+Find.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/Find.java
+END
+FileLockManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/FileLockManager.java
+END
+Exec.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/Exec.java
+END
+MultiOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/MultiOutputStream.java
+END
+FirstTokenKeyCSVConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/FirstTokenKeyCSVConsumer.java
+END
+StatsInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/StatsInputStream.java
+END
+Mapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/Mapping.java
+END
+ARProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/ARProcess.java
+END
+TruncatingStringWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/25/trunk/src/util/ariba/util/io/TruncatingStringWriter.java
+END
+ObjectInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/ObjectInputStream.java
+END
+CSVErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/CSVErrorHandler.java
+END
+FormattingSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/31/trunk/src/util/ariba/util/io/FormattingSerializer.java
+END
+DeserializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/DeserializationException.java
+END
+TempFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/TempFile.java
+END
+CSVConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/CSVConsumer.java
+END
+TagHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/src/util/ariba/util/io/TagHandler.java
+END
+CombinedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/27/trunk/src/util/ariba/util/io/CombinedInputStream.java
+END

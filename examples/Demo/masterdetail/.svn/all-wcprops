@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/trunk/examples/Demo/masterdetail
+END
+UserListEditorPanel.awl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/19/trunk/examples/Demo/masterdetail/UserListEditorPanel.awl
+END
+ERPage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/19/trunk/examples/Demo/masterdetail/ERPage.awl
+END
+UserListEditorPanel.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11/trunk/examples/Demo/masterdetail/UserListEditorPanel.groovy
+END
+ERPage.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/trunk/examples/Demo/masterdetail/ERPage.groovy
+END
+SimpleViewer.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/19/trunk/examples/Demo/masterdetail/SimpleViewer.awl
+END
+ER.csv
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/examples/Demo/masterdetail/ER.csv
+END
+UserListEditor.awl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7/trunk/examples/Demo/masterdetail/UserListEditor.awl
+END
+UserListEditorControl.awl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/19/trunk/examples/Demo/masterdetail/UserListEditorControl.awl
+END
+UserListEditor.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/examples/Demo/masterdetail/UserListEditor.groovy
+END
+DetailViewer.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/19/trunk/examples/Demo/masterdetail/DetailViewer.awl
+END
+UserListEditorControl.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/7/trunk/examples/Demo/masterdetail/UserListEditorControl.groovy
+END
+Charges.csv
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/trunk/examples/Demo/masterdetail/Charges.csv
+END
+DetailViewer.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/examples/Demo/masterdetail/DetailViewer.groovy
+END
+TETestPanel.awl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/examples/Demo/masterdetail/TETestPanel.awl
+END
+TETestPanel.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10/trunk/examples/Demo/masterdetail/TETestPanel.groovy
+END
+HotelPanel.awl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7/trunk/examples/Demo/masterdetail/HotelPanel.awl
+END
+HotelPanel.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7/trunk/examples/Demo/masterdetail/HotelPanel.groovy
+END

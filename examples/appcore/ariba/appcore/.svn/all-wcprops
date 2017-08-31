@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/examples/appcore/ariba/appcore
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14/trunk/examples/appcore/ariba/appcore/Group.java
+END
+rules.oss
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/examples/appcore/ariba/appcore/rules.oss
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/trunk/examples/appcore/ariba/appcore/User.java
+END
+Global.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/16/trunk/examples/appcore/ariba/appcore/Global.java
+END
+Principal.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/examples/appcore/ariba/appcore/Principal.java
+END
+PermissionSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/19/trunk/examples/appcore/ariba/appcore/PermissionSet.java
+END
+Initialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/examples/appcore/ariba/appcore/Initialization.java
+END
+Permission.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/19/trunk/examples/appcore/ariba/appcore/Permission.java
+END

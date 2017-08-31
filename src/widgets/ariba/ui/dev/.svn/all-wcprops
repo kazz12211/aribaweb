@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/dev
+END
+AWMetaInspectorPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/19/trunk/src/widgets/ariba/ui/dev/AWMetaInspectorPane.java
+END
+AWPerfDetail.awl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/dev/AWPerfDetail.awl
+END
+AWApiFramePage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/dev/AWApiFramePage.awl
+END
+AWApiTreePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/dev/AWApiTreePage.java
+END
+AWDevErrorIndicator.awl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/dev/AWDevErrorIndicator.awl
+END
+AWApiTreePage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/dev/AWApiTreePage.awl
+END
+AWComponentInspector.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/19/trunk/src/widgets/ariba/ui/dev/AWComponentInspector.java
+END
+AWDebugPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14/trunk/src/widgets/ariba/ui/dev/AWDebugPane.java
+END
+AWResourceManagerInfoPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/dev/AWResourceManagerInfoPage.java
+END
+AWApiUrlLookupFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/16/trunk/src/widgets/ariba/ui/dev/AWApiUrlLookupFilter.java
+END
+AWComponentApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/31/trunk/src/widgets/ariba/ui/dev/AWComponentApi.java
+END
+AWDebugPane.awl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/33/trunk/src/widgets/ariba/ui/dev/AWDebugPane.awl
+END
+AWComponentApi.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/31/trunk/src/widgets/ariba/ui/dev/AWComponentApi.awl
+END
+AWLocalizationEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/19/trunk/src/widgets/ariba/ui/dev/AWLocalizationEditor.java
+END
+AWPerfPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/dev/AWPerfPane.java
+END
+AWValidationErrorPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10/trunk/src/widgets/ariba/ui/dev/AWValidationErrorPage.java
+END
+AWPerfPane.awl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/dev/AWPerfPane.awl
+END
+AWDebugOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/19/trunk/src/widgets/ariba/ui/dev/AWDebugOptions.java
+END
+AWDebugOptions.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/19/trunk/src/widgets/ariba/ui/dev/AWDebugOptions.awl
+END
+AWApiDocGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/16/trunk/src/widgets/ariba/ui/dev/AWApiDocGenerator.java
+END
+AWApiPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/31/trunk/src/widgets/ariba/ui/dev/AWApiPage.java
+END
+AWApiDocGenerator.awl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/src/widgets/ariba/ui/dev/AWApiDocGenerator.awl
+END
+AWApiPage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/31/trunk/src/widgets/ariba/ui/dev/AWApiPage.awl
+END
+AWEx.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7/trunk/src/widgets/ariba/ui/dev/AWEx.java
+END
+AWPerfDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/dev/AWPerfDetail.java
+END
+SelectableRegionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/dev/SelectableRegionWrapper.java
+END
+AWApiFramePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/dev/AWApiFramePage.java
+END
+SelectableRegionWrapper.awl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/dev/SelectableRegionWrapper.awl
+END
+AWMetaInspectorPane.awl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/19/trunk/src/widgets/ariba/ui/dev/AWMetaInspectorPane.awl
+END
+AWApiBodyPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/dev/AWApiBodyPage.java
+END
+AWApiBodyPage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/dev/AWApiBodyPage.awl
+END
+AWComponentInspector.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/src/widgets/ariba/ui/dev/AWComponentInspector.awl
+END
+AWResourceManagerInfoPage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/widgets/ariba/ui/dev/AWResourceManagerInfoPage.awl
+END
+AWLocalizationEditor.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/19/trunk/src/widgets/ariba/ui/dev/AWLocalizationEditor.awl
+END
+AWValidationErrorPage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/trunk/src/widgets/ariba/ui/dev/AWValidationErrorPage.awl
+END

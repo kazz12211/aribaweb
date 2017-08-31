@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/24/trunk/examples/Demo/app
+END
+HomeContent.awl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/trunk/examples/Demo/app/HomeContent.awl
+END
+Toc.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/24/trunk/examples/Demo/app/Toc.java
+END
+LoginPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11/trunk/examples/Demo/app/LoginPage.java
+END
+Application.oss
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/trunk/examples/Demo/app/Application.oss
+END
+ProtectedPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/examples/Demo/app/ProtectedPage.java
+END
+LoginPage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14/trunk/examples/Demo/app/LoginPage.awl
+END
+Toc.awl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/24/trunk/examples/Demo/app/Toc.awl
+END
+Locator.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/examples/Demo/app/Locator.groovy
+END
+DirectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/examples/Demo/app/DirectAction.java
+END
+ProtectedPage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/examples/Demo/app/ProtectedPage.awl
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/14/trunk/examples/Demo/app/Session.java
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/trunk/examples/Demo/app/Application.java
+END

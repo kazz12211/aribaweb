@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/17/trunk/src/awreload/ariba/awreload
+END
+FactorNotUsed.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/src/awreload/ariba/awreload/FactorNotUsed.java
+END
+Console.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7/trunk/src/awreload/ariba/awreload/Console.java
+END
+ReloadingClassLoaderInit.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/src/awreload/ariba/awreload/ReloadingClassLoaderInit.java
+END
+JavaReloadClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/17/trunk/src/awreload/ariba/awreload/JavaReloadClassLoader.java
+END
+SimpleURLClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7/trunk/src/awreload/ariba/awreload/SimpleURLClassLoader.java
+END
+Compiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9/trunk/src/awreload/ariba/awreload/Compiler.java
+END
+HotSwapFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/src/awreload/ariba/awreload/HotSwapFactory.java
+END
+Factor.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7/trunk/src/awreload/ariba/awreload/Factor.java
+END

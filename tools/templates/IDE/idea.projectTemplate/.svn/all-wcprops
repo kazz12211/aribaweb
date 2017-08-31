@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/tools/templates/IDE/idea.projectTemplate
+END
+_ProjectName_.iml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10/trunk/tools/templates/IDE/idea.projectTemplate/_ProjectName_.iml
+END
+_ProjectName_.iws
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/tools/templates/IDE/idea.projectTemplate/_ProjectName_.iws
+END
+templateInfo.table
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10/trunk/tools/templates/IDE/idea.projectTemplate/templateInfo.table
+END
+_ProjectName_.ipr.awtmpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10/trunk/tools/templates/IDE/idea.projectTemplate/_ProjectName_.ipr.awtmpl
+END

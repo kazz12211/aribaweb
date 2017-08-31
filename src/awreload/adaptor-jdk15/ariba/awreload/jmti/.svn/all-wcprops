@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/src/awreload/adaptor-jdk15/ariba/awreload/jmti
+END
+Agent.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/src/awreload/adaptor-jdk15/ariba/awreload/jmti/Agent.java
+END
+JVMTIClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/7/trunk/src/awreload/adaptor-jdk15/ariba/awreload/jmti/JVMTIClient.java
+END

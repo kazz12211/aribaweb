@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/14/trunk/examples/Demo/mailclient
+END
+MimeTreePanel.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/trunk/examples/Demo/mailclient/MimeTreePanel.groovy
+END
+MailReader.awl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14/trunk/examples/Demo/mailclient/MailReader.awl
+END
+MimeTreePanel.awl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/examples/Demo/mailclient/MimeTreePanel.awl
+END
+MailReader.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/examples/Demo/mailclient/MailReader.groovy
+END

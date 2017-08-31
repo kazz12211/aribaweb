@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10/trunk/tools/templates/MetaDB-groovy.projectTemplate/_ModelPkg_
+END
+_ModelClass_.groovy.awtmpl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10/trunk/tools/templates/MetaDB-groovy.projectTemplate/_ModelPkg_/_ModelClass_.groovy.awtmpl
+END
+rules.oss.awtmpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/7/trunk/tools/templates/MetaDB-groovy.projectTemplate/_ModelPkg_/rules.oss.awtmpl
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/32/trunk/lib/ext-build
+END
+javax.servlet.zip
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/32/trunk/lib/ext-build/javax.servlet.zip
+END
+yuicompressor-2.3.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7/trunk/lib/ext-build/yuicompressor-2.3.5.jar
+END
+javacc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/7/trunk/lib/ext-build/javacc.jar
+END

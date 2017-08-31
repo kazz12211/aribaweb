@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/src/metaui/ariba/ui/meta/layouts
+END
+MetaNoComponent.awl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/15/trunk/src/metaui/ariba/ui/meta/layouts/MetaNoComponent.awl
+END
+MetaTableColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/src/metaui/ariba/ui/meta/layouts/MetaTableColumn.java
+END
+MetaSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/trunk/src/metaui/ariba/ui/meta/layouts/MetaSearch.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7/trunk/src/metaui/ariba/ui/meta/layouts/package.html
+END
+MetaSearch.awl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/17/trunk/src/metaui/ariba/ui/meta/layouts/MetaSearch.awl
+END
+MetaNavCommandBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/16/trunk/src/metaui/ariba/ui/meta/layouts/MetaNavCommandBar.java
+END
+MetaDetailTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/trunk/src/metaui/ariba/ui/meta/layouts/MetaDetailTable.java
+END
+MetaList.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/25/trunk/src/metaui/ariba/ui/meta/layouts/MetaList.java
+END
+MetaLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/src/metaui/ariba/ui/meta/layouts/MetaLayout.java
+END
+MetaList.awl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/25/trunk/src/metaui/ariba/ui/meta/layouts/MetaList.awl
+END
+MetaMarkdown.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/16/trunk/src/metaui/ariba/ui/meta/layouts/MetaMarkdown.awl
+END
+MetaHomePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/15/trunk/src/metaui/ariba/ui/meta/layouts/MetaHomePage.java
+END
+MetaDashboardLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/src/metaui/ariba/ui/meta/layouts/MetaDashboardLayout.java
+END
+MetaDashboardLayout.awl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/19/trunk/src/metaui/ariba/ui/meta/layouts/MetaDashboardLayout.awl
+END
+MetaTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/17/trunk/src/metaui/ariba/ui/meta/layouts/MetaTable.java
+END
+MetaHomePage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15/trunk/src/metaui/ariba/ui/meta/layouts/MetaHomePage.awl
+END
+MetaTableColumns.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/15/trunk/src/metaui/ariba/ui/meta/layouts/MetaTableColumns.java
+END
+MetaTabs.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/src/metaui/ariba/ui/meta/layouts/MetaTabs.java
+END
+MetaSearchForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/trunk/src/metaui/ariba/ui/meta/layouts/MetaSearchForm.java
+END
+MetaTable.awl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/17/trunk/src/metaui/ariba/ui/meta/layouts/MetaTable.awl
+END
+MetaModalPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/metaui/ariba/ui/meta/layouts/MetaModalPage.java
+END
+MetaModalPage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/metaui/ariba/ui/meta/layouts/MetaModalPage.awl
+END
+MetaTabs.awl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/src/metaui/ariba/ui/meta/layouts/MetaTabs.awl
+END
+MetaSearchForm.awl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/19/trunk/src/metaui/ariba/ui/meta/layouts/MetaSearchForm.awl
+END
+MetaRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/17/trunk/src/metaui/ariba/ui/meta/layouts/MetaRange.java
+END
+MetaTableColumnRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10/trunk/src/metaui/ariba/ui/meta/layouts/MetaTableColumnRenderer.java
+END
+MetaNavTabBar.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/src/metaui/ariba/ui/meta/layouts/MetaNavTabBar.awl
+END
+MetaForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/src/metaui/ariba/ui/meta/layouts/MetaForm.java
+END
+MetaForm.awl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/src/metaui/ariba/ui/meta/layouts/MetaForm.awl
+END
+MetaContentPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/15/trunk/src/metaui/ariba/ui/meta/layouts/MetaContentPage.java
+END
+MetaContentPage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/src/metaui/ariba/ui/meta/layouts/MetaContentPage.awl
+END
+MetaActionList.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/src/metaui/ariba/ui/meta/layouts/MetaActionList.java
+END
+MetaNavCommandBar.awl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/19/trunk/src/metaui/ariba/ui/meta/layouts/MetaNavCommandBar.awl
+END
+MetaActionList.awl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/25/trunk/src/metaui/ariba/ui/meta/layouts/MetaActionList.awl
+END
+MetaDetailTable.awl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/trunk/src/metaui/ariba/ui/meta/layouts/MetaDetailTable.awl
+END
+MetaTableDetailColumnRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/src/metaui/ariba/ui/meta/layouts/MetaTableDetailColumnRenderer.java
+END
+MetaTableColumnsRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/trunk/src/metaui/ariba/ui/meta/layouts/MetaTableColumnsRenderer.java
+END
+MetaTableColumnsRenderer.awl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/src/metaui/ariba/ui/meta/layouts/MetaTableColumnsRenderer.awl
+END
+MetaTableDetailColumnRenderer.awl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/src/metaui/ariba/ui/meta/layouts/MetaTableDetailColumnRenderer.awl
+END
+MetaMarkdown.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/24/trunk/src/metaui/ariba/ui/meta/layouts/MetaMarkdown.java
+END
+MetaElementList.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6/trunk/src/metaui/ariba/ui/meta/layouts/MetaElementList.java
+END
+MetaElementList.awl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/src/metaui/ariba/ui/meta/layouts/MetaElementList.awl
+END
+MetaSections.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/metaui/ariba/ui/meta/layouts/MetaSections.java
+END
+MetaSections.awl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/src/metaui/ariba/ui/meta/layouts/MetaSections.awl
+END
+WidgetsRules.oss
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/27/trunk/src/metaui/ariba/ui/meta/layouts/WidgetsRules.oss
+END
+MetaTableColumnRenderer.awl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/src/metaui/ariba/ui/meta/layouts/MetaTableColumnRenderer.awl
+END
+MetaRange.awl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/19/trunk/src/metaui/ariba/ui/meta/layouts/MetaRange.awl
+END
+MetaNavTabBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/22/trunk/src/metaui/ariba/ui/meta/layouts/MetaNavTabBar.java
+END

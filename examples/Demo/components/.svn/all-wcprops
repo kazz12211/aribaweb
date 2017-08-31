@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/11/trunk/examples/Demo/components
+END
+RatingBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10/trunk/examples/Demo/components/RatingBar.java
+END
+RatingBar.awl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/trunk/examples/Demo/components/RatingBar.awl
+END
+GMapPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10/trunk/examples/Demo/components/GMapPoint.java
+END
+GMapPolyline.awl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10/trunk/examples/Demo/components/GMapPolyline.awl
+END
+GMaps.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11/trunk/examples/Demo/components/GMaps.js
+END
+GMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/examples/Demo/components/GMap.java
+END
+GMap.awl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/examples/Demo/components/GMap.awl
+END
+GMapMarker.awl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11/trunk/examples/Demo/components/GMapMarker.awl
+END

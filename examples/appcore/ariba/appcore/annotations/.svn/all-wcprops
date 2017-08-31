@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/examples/appcore/ariba/appcore/annotations
+END
+DatabaseInitLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/examples/appcore/ariba/appcore/annotations/DatabaseInitLoader.java
+END
+DefaultAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/examples/appcore/ariba/appcore/annotations/DefaultAccess.java
+END
+AnonymousAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/examples/appcore/ariba/appcore/annotations/AnonymousAccess.java
+END

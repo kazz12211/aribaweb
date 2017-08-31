@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/25/trunk/src/metaui/ariba/ui/meta/persistence
+END
+QueryProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/src/metaui/ariba/ui/meta/persistence/QueryProcessor.java
+END
+QuerySpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/src/metaui/ariba/ui/meta/persistence/QuerySpecification.java
+END
+Loader.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/20/trunk/src/metaui/ariba/ui/meta/persistence/Loader.java
+END
+ContextBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/src/metaui/ariba/ui/meta/persistence/ContextBinder.java
+END
+EntityChoiceSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/src/metaui/ariba/ui/meta/persistence/EntityChoiceSource.java
+END
+ObjectContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/25/trunk/src/metaui/ariba/ui/meta/persistence/ObjectContext.java
+END
+QueryGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/21/trunk/src/metaui/ariba/ui/meta/persistence/QueryGenerator.java
+END
+DetailDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/25/trunk/src/metaui/ariba/ui/meta/persistence/DetailDataSource.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7/trunk/src/metaui/ariba/ui/meta/persistence/package.html
+END
+SortOrdering.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/16/trunk/src/metaui/ariba/ui/meta/persistence/SortOrdering.java
+END
+PersistenceRules.oss
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/23/trunk/src/metaui/ariba/ui/meta/persistence/PersistenceRules.oss
+END
+ObjectContextDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/src/metaui/ariba/ui/meta/persistence/ObjectContextDataSource.java
+END
+PersistenceMeta.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/22/trunk/src/metaui/ariba/ui/meta/persistence/PersistenceMeta.java
+END
+TypeProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/20/trunk/src/metaui/ariba/ui/meta/persistence/TypeProvider.java
+END
+Predicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/19/trunk/src/metaui/ariba/ui/meta/persistence/Predicate.java
+END

@@ -1,0 +1,527 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/html
+END
+AWImageButton.awl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWImageButton.awl
+END
+AWHiddenFormParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/28/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWHiddenFormParameter.java
+END
+AWFileUpload.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWFileUpload.java
+END
+SubmitButtonExample.awl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/31/trunk/src/aribaweb/ariba/ui/aribaweb/html/SubmitButtonExample.awl
+END
+AWStyleSheet.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/19/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWStyleSheet.java
+END
+AWStaticImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWStaticImage.java
+END
+AWStyleSheet.awl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/15/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWStyleSheet.awl
+END
+AWRadioButton.awl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/27/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWRadioButton.awl
+END
+AWSubmitButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWSubmitButton.java
+END
+AWHead.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWHead.java
+END
+AWHead.awl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWHead.awl
+END
+AWPopup.awl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/27/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWPopup.awl
+END
+AWForm.awl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/25/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWForm.awl
+END
+BindingNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/32/trunk/src/aribaweb/ariba/ui/aribaweb/html/BindingNames.java
+END
+AWArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWArea.java
+END
+AWClientSideScript.awl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWClientSideScript.awl
+END
+AWJSListRepetition.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWJSListRepetition.java
+END
+AWTextArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWTextArea.java
+END
+AWExampleComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/31/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWExampleComponent.java
+END
+AWImageButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWImageButton.java
+END
+AWTextArea.awl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWTextArea.awl
+END
+AWRadioButtonEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWRadioButtonEnvironment.java
+END
+AWLabel.awl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWLabel.awl
+END
+AWHiddenFormParameter.awl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/28/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWHiddenFormParameter.awl
+END
+AWMetaContentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWMetaContentType.java
+END
+AWBrowser.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWBrowser.java
+END
+AWActionCheckbox.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWActionCheckbox.java
+END
+AWImage.awl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWImage.awl
+END
+AWFileUpload.awl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWFileUpload.awl
+END
+AWTextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/32/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWTextField.java
+END
+AWCheckbox.awl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWCheckbox.awl
+END
+AWRadioButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/27/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWRadioButton.java
+END
+AWPrivateScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWPrivateScript.java
+END
+TextFieldExample2.awl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/31/trunk/src/aribaweb/ariba/ui/aribaweb/html/TextFieldExample2.awl
+END
+AWFileUploadInternals.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWFileUploadInternals.java
+END
+AWIFrame.awl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWIFrame.awl
+END
+AWFormProxy.awl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWFormProxy.awl
+END
+AWPasswordField.awl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/31/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWPasswordField.awl
+END
+AWArea.awl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWArea.awl
+END
+AWImageData.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWImageData.java
+END
+AWConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWConstants.java
+END
+TextFieldExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/31/trunk/src/aribaweb/ariba/ui/aribaweb/html/TextFieldExample.java
+END
+AWPageWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWPageWrapper.java
+END
+AWPageWrapper.awl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/19/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWPageWrapper.awl
+END
+AWDebugContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWDebugContent.java
+END
+AWImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWImage.java
+END
+AWDebugContent.awl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/15/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWDebugContent.awl
+END
+SubmitButtonExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/31/trunk/src/aribaweb/ariba/ui/aribaweb/html/SubmitButtonExample.java
+END
+AWCheckbox.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWCheckbox.java
+END
+AWActionCheckbox.awl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWActionCheckbox.awl
+END
+AWTextField.awl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWTextField.awl
+END
+AWFrame.awl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWFrame.awl
+END
+AWBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWBody.java
+END
+TextFieldExample2.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/31/trunk/src/aribaweb/ariba/ui/aribaweb/html/TextFieldExample2.java
+END
+AWBody.awl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWBody.awl
+END
+AWPrivateHyperlink.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWPrivateHyperlink.java
+END
+AWMultiTabException.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWMultiTabException.java
+END
+AWSubmitButton.awl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWSubmitButton.awl
+END
+AWForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/32/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWForm.java
+END
+AWPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWPopup.java
+END
+AWMetaRefresh.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWMetaRefresh.java
+END
+AWFileUploadInternals.awl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWFileUploadInternals.awl
+END
+AWPasswordField.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/30/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWPasswordField.java
+END
+AWMetaRefresh.awl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWMetaRefresh.awl
+END
+AWTdContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWTdContainer.java
+END
+AWHiddenFormValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWHiddenFormValue.java
+END
+AWJSListRepetition.awl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWJSListRepetition.awl
+END
+AWBaseImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWBaseImage.java
+END
+AWImageData.awl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/25/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWImageData.awl
+END
+TextFieldExample.awl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/31/trunk/src/aribaweb/ariba/ui/aribaweb/html/TextFieldExample.awl
+END
+AWLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWLabel.java
+END
+AWRadioButtonEnvironment.awl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWRadioButtonEnvironment.awl
+END
+AWTdElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWTdElement.java
+END
+AWBrowser.awl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWBrowser.awl
+END
+AWMetaContentType.awl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWMetaContentType.awl
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/src/aribaweb/ariba/ui/aribaweb/html/package.html
+END
+HyperlinkExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/31/trunk/src/aribaweb/ariba/ui/aribaweb/html/HyperlinkExample.java
+END
+AWFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWFrame.java
+END
+HyperlinkExample.awl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/31/trunk/src/aribaweb/ariba/ui/aribaweb/html/HyperlinkExample.awl
+END
+AWPrivateScript.awl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWPrivateScript.awl
+END
+AWMultiTabException.awl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWMultiTabException.awl
+END
+AWPrivateHyperlink.awl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWPrivateHyperlink.awl
+END
+AWIFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWIFrame.java
+END
+AWHyperlink.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/15/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWHyperlink.java
+END
+AWHyperlink.awl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/19/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWHyperlink.awl
+END
+AWClientSideScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/33/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWClientSideScript.java
+END
+AWHiddenFormValue.awl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/src/aribaweb/ariba/ui/aribaweb/html/AWHiddenFormValue.awl
+END

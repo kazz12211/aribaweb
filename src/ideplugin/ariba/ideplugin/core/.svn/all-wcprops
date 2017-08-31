@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/trunk/src/ideplugin/ariba/ideplugin/core
+END
+RemoteOpen.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/trunk/src/ideplugin/ariba/ideplugin/core/RemoteOpen.java
+END
+WrapperRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/src/ideplugin/ariba/ideplugin/core/WrapperRuntimeException.java
+END
+AWScriptRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/11/trunk/src/ideplugin/ariba/ideplugin/core/AWScriptRunner.java
+END

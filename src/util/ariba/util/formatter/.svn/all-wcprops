@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/30/trunk/src/util/ariba/util/formatter
+END
+IntegerFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/15/trunk/src/util/ariba/util/formatter/IntegerFormatter.java
+END
+LongFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/util/ariba/util/formatter/LongFormatter.java
+END
+StringParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/util/ariba/util/formatter/StringParser.java
+END
+StringFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/util/ariba/util/formatter/StringFormatter.java
+END
+DecimalFormatterCommon.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/28/trunk/src/util/ariba/util/formatter/DecimalFormatterCommon.java
+END
+DoubleFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/28/trunk/src/util/ariba/util/formatter/DoubleFormatter.java
+END
+ListFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/util/ariba/util/formatter/ListFormatter.java
+END
+LowerCaseStringFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/src/util/ariba/util/formatter/LowerCaseStringFormatter.java
+END
+UserDateFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/27/trunk/src/util/ariba/util/formatter/UserDateFormatter.java
+END
+SecureStringFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/src/util/ariba/util/formatter/SecureStringFormatter.java
+END
+DateFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/30/trunk/src/util/ariba/util/formatter/DateFormatter.java
+END
+Formatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/28/trunk/src/util/ariba/util/formatter/Formatter.java
+END
+BooleanFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/util/ariba/util/formatter/BooleanFormatter.java
+END
+BigDecimalFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/30/trunk/src/util/ariba/util/formatter/BigDecimalFormatter.java
+END
+DecimalParseInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/util/ariba/util/formatter/DecimalParseInfo.java
+END
+SystemBooleanFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/src/util/ariba/util/formatter/SystemBooleanFormatter.java
+END
+NumberFormatterUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/src/util/ariba/util/formatter/NumberFormatterUtil.java
+END
+StatefulFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/util/ariba/util/formatter/StatefulFormatter.java
+END
+NullStringParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7/trunk/src/util/ariba/util/formatter/NullStringParser.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/util/ariba/util/formatter/package.html
+END
+FormatterHandlesNulls.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/src/util/ariba/util/formatter/FormatterHandlesNulls.java
+END
+IntegerArrayFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/src/util/ariba/util/formatter/IntegerArrayFormatter.java
+END

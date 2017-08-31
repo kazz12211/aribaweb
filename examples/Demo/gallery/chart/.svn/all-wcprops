@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10/trunk/examples/Demo/gallery/chart
+END
+AutoSales.csv
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10/trunk/examples/Demo/gallery/chart/AutoSales.csv
+END
+ChartTabs.awl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10/trunk/examples/Demo/gallery/chart/ChartTabs.awl
+END
+ChartPivot.awl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/trunk/examples/Demo/gallery/chart/ChartPivot.awl
+END
+ChartSample.awl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10/trunk/examples/Demo/gallery/chart/ChartSample.awl
+END
+ChartPivot.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10/trunk/examples/Demo/gallery/chart/ChartPivot.groovy
+END
+ChartSample.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10/trunk/examples/Demo/gallery/chart/ChartSample.groovy
+END

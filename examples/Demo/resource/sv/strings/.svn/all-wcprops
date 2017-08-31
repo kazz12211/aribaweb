@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/22/trunk/examples/Demo/resource/sv/strings
+END
+app.csv
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/22/trunk/examples/Demo/resource/sv/strings/app.csv
+END
+gallery.html.csv
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/22/trunk/examples/Demo/resource/sv/strings/gallery.html.csv
+END
+gallery.metaui.csv
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/22/trunk/examples/Demo/resource/sv/strings/gallery.metaui.csv
+END
+busobj.csv
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/22/trunk/examples/Demo/resource/sv/strings/busobj.csv
+END
+masterdetail.csv
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/22/trunk/examples/Demo/resource/sv/strings/masterdetail.csv
+END

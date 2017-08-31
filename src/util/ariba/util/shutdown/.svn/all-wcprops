@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/33/trunk/src/util/ariba/util/shutdown
+END
+DefaultVMExit.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/util/ariba/util/shutdown/DefaultVMExit.java
+END
+RecycleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/33/trunk/src/util/ariba/util/shutdown/RecycleManager.java
+END
+ShutdownDelayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/util/ariba/util/shutdown/ShutdownDelayer.java
+END
+ShutdownManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/33/trunk/src/util/ariba/util/shutdown/ShutdownManager.java
+END
+ShutdownSignalHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6/trunk/src/util/ariba/util/shutdown/ShutdownSignalHandler.java
+END
+ShutdownManagerProcessorIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/src/util/ariba/util/shutdown/ShutdownManagerProcessorIfc.java
+END
+RecycleIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/src/util/ariba/util/shutdown/RecycleIfc.java
+END
+RequestShutdownDelayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26/trunk/src/util/ariba/util/shutdown/RequestShutdownDelayer.java
+END
+ExitHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/src/util/ariba/util/shutdown/ExitHook.java
+END

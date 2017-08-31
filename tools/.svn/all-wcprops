@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/33/trunk/tools
+END
+build-module.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/7/trunk/tools/build-module.xml
+END
+build-appcore-app.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/trunk/tools/build-appcore-app.xml
+END
+build-common.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/32/trunk/tools/build-common.xml
+END
+build-jpa-app.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/tools/build-jpa-app.xml
+END
+build-commands.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/tools/build-commands.xml
+END
+build-metaui-app.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/16/trunk/tools/build-metaui-app.xml
+END
+build-widgets-app.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/20/trunk/tools/build-widgets-app.xml
+END
